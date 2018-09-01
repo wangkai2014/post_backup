@@ -9,6 +9,9 @@ catalog: true
 tags:
     - Houdini
 ---
+电影和GAMEDEV的程序内容创作工具
+
+<!--more-->
 
 Houdini Foundations适用于艺术家入门Houdini及其基于节点的程序工作流程。了解您将作为Houdini艺术家使用的工具和技术的所有内容，然后通过三个课程教您如何从头开始构建简单的项目。您将学习如何使用Houdini中的节点和网络，以及如何呈现结果或将它们带入UE4游戏引擎。
 

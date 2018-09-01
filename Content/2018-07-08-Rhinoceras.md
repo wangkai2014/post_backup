@@ -10,6 +10,10 @@ tags:
     - Rhino
     - 犀牛
 ---
+超级强大而轻量级的NURBS建模软件
+
+<!--more-->
+
 Rhino（全称：Rhinoceros，又名：Rhino3D）是一款轻量级但非常强大的高级3D建模工具，硬件配置要求较低。不要忽视它，因为它包含了所有的[NURBS](https://www.rhino3d.com/cn/nurbs)（非均匀有理B样条）建模函数。事实上，许多用户经常使用它来执行建模，然后导出其他3D软件使用的高精度模型。
 
 * [官方网站](https://www.rhino3d.com/)  

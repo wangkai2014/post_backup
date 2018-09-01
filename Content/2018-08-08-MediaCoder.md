@@ -9,6 +9,9 @@ catalog: true
 tags:
     - MediaCoder
 ---
+MediaCoder 是一款影音格式转换软件
+
+<!--more-->
 
 [官方网站](http://www.mediacoderhq.com)  
 

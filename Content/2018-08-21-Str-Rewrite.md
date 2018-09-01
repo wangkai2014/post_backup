@@ -8,6 +8,9 @@ header-img: img/StrRewrite/bg.jpg
 catalog: true
 tags:
 ---
+Str Rewrite 是一款针对str文件重写的工具
+
+<!--more-->
 
 ![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/StrRewrite/post-5.png)  
 

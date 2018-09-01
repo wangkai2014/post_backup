@@ -10,6 +10,9 @@ tags:
     - Microsoft
     - 微软
 ---
+https://www.microsoft.com
+
+<!--more-->
 
 [官方网站](https://www.microsoft.com)
 
