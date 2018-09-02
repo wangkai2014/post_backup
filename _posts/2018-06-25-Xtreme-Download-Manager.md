@@ -10,6 +10,9 @@ tags:
     - XDM
     - Xtreme Download Manager
 ---
+Xtreme Download Manager是一款功能强大的下载工具
+
+<!--more-->
 
 ![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/XDM/1.png)  
 

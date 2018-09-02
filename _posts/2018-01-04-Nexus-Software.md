@@ -8,6 +8,9 @@ header-img: img/Nexus/bg.jpg
 catalog: true
 tags:
 ---
+Nexus 它包含了多个优秀软件
+
+<!--more-->
 
 [官方网站](http://www.xiles.net/)  
 * nexusfile 文件管理器  

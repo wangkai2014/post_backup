@@ -8,6 +8,10 @@ header-img: img/MicroKeylogger/bg.jpg
 catalog: true
 tags:
 ---
+这是一款用来记录键盘按键和屏幕快照的骇客工具
+
+<!--more-->
+
 ![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/MicroKeylogger/banner-mk.png)  
 
 [官方网站](http://www.microkeylogger.com)  

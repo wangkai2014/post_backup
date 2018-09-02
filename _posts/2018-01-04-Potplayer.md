@@ -8,6 +8,9 @@ header-img: img/Potplayer/bg.jpg
 catalog: true
 tags:
 ---
+这是一款优秀的播放器
+
+<!--more-->
 
 [官方网站](http://potplayer.daum.net)  
 

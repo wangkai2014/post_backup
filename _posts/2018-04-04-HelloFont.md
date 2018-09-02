@@ -8,6 +8,9 @@ header-img: img/HelloFont/bg.jpg
 catalog: true
 tags:
 ---
+字由是为设计师量身定做的一款字体工具
+
+<!--more-->
 
 [官方网站](http://www.hellofont.cn)
 

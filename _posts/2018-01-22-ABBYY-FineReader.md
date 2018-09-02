@@ -9,6 +9,9 @@ catalog: true
 tags:
     - OCR
 ---
+FineReader是一款OCR和PDF一体化应用程序
+
+<!--more-->
 
 [官方网站](http://www.abbyy.cn/finereader/)  
 

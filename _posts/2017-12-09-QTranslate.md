@@ -9,6 +9,9 @@ catalog: true
 tags:
 
 ---
+这是一款优秀的翻译软件
+
+<!--more-->
 
 [官方网站](https://quest-app.appspot.com/)  
 

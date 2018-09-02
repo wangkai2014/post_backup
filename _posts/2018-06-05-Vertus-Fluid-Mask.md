@@ -10,6 +10,9 @@ tags:
     - Fluid Mask
     - 插件
 ---
+高效快速抠图工具
+
+<!--more-->
 
 Fluid Mask可用作独立应用程序和Photoshop插件。
 

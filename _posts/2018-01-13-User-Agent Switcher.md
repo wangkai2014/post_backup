@@ -10,6 +10,9 @@ tags:
     - Chrome
     - 插件
 ---
+这是一款浏览器用来伪装User-Agent的插件
+
+<!--more-->
 
 [官方网站](http://useragentswitcher.org/)
 

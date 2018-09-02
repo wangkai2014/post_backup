@@ -12,6 +12,9 @@ tags:
     - Octane
     - Render
 ---
+世界上第一款最快,最好用,无偏差的GPU渲染器
+
+<!--more-->
 
 [官方网站](https://home.otoy.com/render/octane-render/)
 

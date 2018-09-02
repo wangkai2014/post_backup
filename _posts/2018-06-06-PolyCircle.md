@@ -10,6 +10,9 @@ tags:
     - CINEMA 4D
     - 插件
 ---
+PolyCircle 是顶点和多边形变为圆形的插件
+
+<!--more-->
 
 ![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/C4D/plug-ins/PolyCircle/PolyCircle_0.jpg)  
 

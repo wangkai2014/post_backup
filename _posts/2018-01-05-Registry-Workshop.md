@@ -9,6 +9,9 @@ catalog: true
 tags:
     - Registry Workshop
 ---
+最专业的注册表工具 他比系统自带的regedit更全面
+
+<!--more-->
 
 [官方网站](http://www.torchsoft.com/)  
 

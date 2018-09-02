@@ -10,6 +10,9 @@ tags:
     - Chrome
     - 插件
 ---
+Chrome
+
+<!--more-->
 
 [官方网站](http://www.painterartist.com)  
 

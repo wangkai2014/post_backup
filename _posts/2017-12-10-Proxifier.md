@@ -10,6 +10,9 @@ tags:
     - 网络
     - Proxifier
 ---
+这是一个可以分配进程网络走向的软件
+
+<!--more-->
 
 [官方网站](http://www.proxifier.com)  
 

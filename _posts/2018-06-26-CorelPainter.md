@@ -10,6 +10,9 @@ tags:
     - Corel
     - CorelPainter
 ---
+最为完善的电脑美术绘画软件
+
+<!--more-->
 
 [官方网站](http://www.painterartist.com)  
 

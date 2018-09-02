@@ -9,6 +9,9 @@ catalog: true
 tags:
     - VMware Workstation
 ---
+VMware是功能最强大的虚拟机软件
+
+<!--more-->
 
 [官方网站](http://www.vmware.com)  
 [更新日志](https://docs.vmware.com/en/VMware-Workstation-Pro/14/rn/workstation-1411-release-notes.html)  

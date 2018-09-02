@@ -9,6 +9,9 @@ catalog: true
 tags:
     - Capture One
 ---
+这是一款 RAW 转换和图像编辑软件
+
+<!--more-->
 
 [官方网站](https://www.phaseone.com/)  
 [学习中心](https://www.phaseone.com/zh-CN/Products/Software/Capture-One-Pro/Learning-Hub.aspx)

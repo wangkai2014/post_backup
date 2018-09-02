@@ -9,6 +9,10 @@ catalog: true
 tags:
     - Adobe系列插件
 ---
+在画质良好的情况下压缩图像的文件大小
+
+<!--more-->
+
 [官方网站](https://tinypng.com/)（支持在线压缩图片）
 
 ## 下载

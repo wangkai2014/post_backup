@@ -9,6 +9,9 @@ catalog: true
 tags:
     - QrCode
 ---
+一个很好的二维码平台
+
+<!--more-->
 
 [在线生成器](https://www.qrcode-monkey.com)  
 [工作室](https://qrcode.studio)  

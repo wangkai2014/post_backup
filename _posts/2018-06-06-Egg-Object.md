@@ -10,6 +10,9 @@ tags:
     - CINEMA 4D
     - 插件
 ---
+Egg-Object 2是用于创建鸡蛋对象插件
+
+<!--more-->
 
 ![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/C4D/plug-ins/eggtion/Alem/cinema4d.jpg)  
 

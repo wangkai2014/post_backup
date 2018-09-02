@@ -9,6 +9,9 @@ catalog: true
 tags:
     - BandiSoft
 ---
+最好用的图片查看器和压缩软件都在这里
+
+<!--more-->
 
 [官方网站](http://www.bandisoft.com)  
 

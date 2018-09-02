@@ -10,6 +10,9 @@ tags:
     - IDM
     - Internet Download Manager
 ---
+这是一款国外的下载工具，提升你的下载速度最多达5倍，安排下载时程，或续传一半的软件。
+
+<!--more-->
 
 [官方网站](http://www.internetdownloadmanager.com)  
 

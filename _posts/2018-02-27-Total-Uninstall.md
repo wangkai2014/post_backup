@@ -9,6 +9,9 @@ catalog: true
 tags:
     - Total Uninstall
 ---
+戒系一款能帮你监视软件安装过程已经卸载软件的软件。
+
+<!--more-->
 
 [官方网站](https://martau.com)  
 [appnee](http://appnee.com/total-Uninstall)  

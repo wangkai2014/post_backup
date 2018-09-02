@@ -1,7 +1,7 @@
 ﻿---
 layout:     post
 title:      Adobe 系列软件
-subtitle:   http://www.adobe.com/
+subtitle:   http://www.adobe.com
 date:       2018-05-01
 author:     Brywmzl
 header-img: img/Adobe/bg.jpg
@@ -9,6 +9,9 @@ catalog: true
 tags:
     - Adobe
 ---
+http://www.adobe.com
+
+<!--more-->
 
 [官方网站](http://www.adobe.com/)  
 [FC Portable](https://www.fcportables.com/)  

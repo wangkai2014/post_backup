@@ -1,13 +1,16 @@
 ﻿---
 layout:     post
 title:      Moo0 系列软件
-subtitle:  http://zhs.moo0.com/
+subtitle:  http://zhs.moo0.com
 date:       2018-01-22
 author:     Brywmzl
 header-img: img/Moo0/bg.jpg
 catalog: true
 tags:
 ---
+http://zhs.moo0.com
+
+<!--more-->
 
 [官方网站](http://zhs.moo0.com/)  
 
