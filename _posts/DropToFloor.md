@@ -14,7 +14,7 @@ DropToFloor 是Cinema 4D的地面齐平插件
 
 <!--more-->
 
-![](/img/C4D/\Plug-ins/DropToFloor/DropToFloorR20_Web_Small.jpg)
+![](/img/C4D/plug-ins/DropToFloor/DropToFloorR20_Web_Small.jpg)
 
 {% youtube Ju4sLJ-oA3c %}
 
