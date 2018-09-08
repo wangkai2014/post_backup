@@ -57,7 +57,7 @@ magnet:?xt=urn:btih:B7E7E7A35EEFF0BCA235B08152FD58B656A1D297
 [参考](http://www.epinv.com/post/7662.html)
 
 # 安装问题
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/Corel/CorelDRAW/error_0.png)  
+![](/img/Corel/CorelDRAW/error_0.png)  
 * [完整移除CorelDRAW 2017](https://support.corel.com/hc/zh-tw/articles/115013707107--%E5%AE%89%E8%A3%9D-%E5%AE%8C%E6%95%B4%E7%A7%BB%E9%99%A4CorelDRAW-2017)  
 * 删除文件夹  
 ```

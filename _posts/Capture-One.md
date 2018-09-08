@@ -18,14 +18,14 @@ categories: [图像处理]
 [官方网站](https://www.phaseone.com/)  
 [学习中心](https://www.phaseone.com/zh-CN/Products/Software/Capture-One-Pro/Learning-Hub.aspx)
 
-## 下载
->- [官方下载](https://www.phaseone.com/zh-CN/Download.aspx)  
->- [网盘下载](https://pan.baidu.com/s/1cucILK)  
+# 下载
+> [官方下载](https://www.phaseone.com/zh-CN/Download.aspx)  
+> [网盘下载](https://pan.baidu.com/s/1cucILK)  
 
-## 安装说明
+# 安装说明
 * 断网！！！（亲测不需要断网）
 * 手动激活（如图所示）  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/CaptureOne/0.png)  
+![](/img/CaptureOne/0.png)  
 * 添加 host `%WinDir%\system32\drivers\etc\hosts`
 ```
 0.0.0.0 activation.phaseone.com

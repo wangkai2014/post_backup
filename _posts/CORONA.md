@@ -13,7 +13,7 @@ Corona Renderer在渲染中提供高质量，基于物理的阴影
 
 <!--more-->
 
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/CORONA/0.jpg)  
+![](/img/CORONA/0.jpg)  
 
 [官方网站](https://corona-renderer.com)  
 [Gallery](https://corona-renderer.com/gallery)  

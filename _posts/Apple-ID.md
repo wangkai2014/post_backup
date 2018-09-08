@@ -13,21 +13,21 @@ Apple 转区技巧
 <!--more-->
 
 # Apple ID 任意转区
-先[下载 iCloud3.0 ](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1tyxif)并安装  
+先[下载 iCloud3.0 ](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1tyxif)并安装
 
-PS 在 iCloud 3.0 中使用想要修改地区的 Apple ID 进行登录。需要注意的是，旧版本的 iCloud 并非从官方网站上下载的，建议用户开启两步认证之后再登录，避免出现信息泄露的情况   
+PS 在 iCloud 3.0 中使用想要修改地区的 Apple ID 进行登录。需要注意的是，旧版本的 iCloud 并非从官方网站上下载的，建议用户开启两步认证之后再登录，避免出现信息泄露的情况
 
-1.依次点击"管理"-"查看账户"-"更改"  
-![](http://mg.soupingguo.com/attchment2/ArticleImg/600/100/150/469/100408924.png)  
-![](http://mg.soupingguo.com/attchment2/ArticleImg/600/100/150/469/100408925.png)  
-![](http://mg.soupingguo.com/attchment2/ArticleImg/600/100/150/469/100408926.png)  
+1.依次点击"管理"-"查看账户"-"更改"
+![](/img/Apple/1.png)
+![](/img/Apple/2.png)
+![](/img/Apple/3.png)
 
-2.选择你想要修改的国家或地区，点击“更改”，然后你就会发现付款信息可以选择“无”，完善地址信息，完成。而在“账单寄送地址”中，选择的地区和邮编要对应，否则可能会失败，电话号码和街道地址则没有太多要求  
-![](http://mg.soupingguo.com/attchment2/ArticleImg/600/100/150/469/100408927.png)  
-![](http://mg.soupingguo.com/attchment2/ArticleImg/600/100/150/469/100408928.jpg)  
+2.选择你想要修改的国家或地区，点击“更改”，然后你就会发现付款信息可以选择“无”，完善地址信息，完成。而在“账单寄送地址”中，选择的地区和邮编要对应，否则可能会失败，电话号码和街道地址则没有太多要求
+![](/img/Apple/4.png)
+![](/img/Apple/5.jpg)
 
-3.点击“完成”之后，Apple ID 的注册邮箱会收到一封邮件，提示账单发送地址更新，即 Apple ID 已经成功更改地区  
-![](http://mg.soupingguo.com/attchment2/ArticleImg/600/100/150/469/100408929.png)  
+3.点击“完成”之后，Apple ID 的注册邮箱会收到一封邮件，提示账单发送地址更新，即 Apple ID 已经成功更改地区
+![](/img/Apple/6.png)
 
 # 可能遇到的问题
 - 美国等一些区域转区时一定要使用对应区域的信用卡（iCloud3.0解决），可以选择加拿大。

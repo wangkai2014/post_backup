@@ -12,7 +12,7 @@ Xtreme Download Manager是一款功能强大的下载工具
 
 <!--more-->
 
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/XDM/1.png)  
+![](/img/XDM/1.png)  
 
 Xtreme Download Manager is a powerful tool to increase download speed up-to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads. XDM seamlessly integrates with Google Chrome, Mozilla Firefox Quantum, Opera, Vivaldi and other Chroumium and Firefox based browsers, to take over downloads and saving streaming videos from web. XDM has a built in video converter which lets you convert your downloaded videos to different formats so that you can watch then on your mobile or TV (100+ devices are supported)
 
@@ -22,6 +22,6 @@ Xtreme Download Manager is a powerful tool to increase download speed up-to 500%
 * 兼容：Windows/Linux/Mac OS X
 * 语言：多国语言（包含简体中文）
 
-## 下载
->- [官方下载](https://subhra74.github.io/xdm/#downloads)
->- [网盘下载](https://pan.baidu.com/s/1_LKtXlVO-wBPZkqRLwgF9Q)  
+# 下载
+> [官方下载](https://subhra74.github.io/xdm/#downloads)
+> [网盘下载](https://pan.baidu.com/s/1_LKtXlVO-wBPZkqRLwgF9Q)  

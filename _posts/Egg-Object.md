@@ -12,7 +12,7 @@ Egg-Object 2是用于创建鸡蛋对象插件
 
 <!--more-->
 
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/C4D/plug-ins/eggtion/Alem/cinema4d.jpg)  
+![](/img/C4D/plug-ins/eggtion/Alem/cinema4d.jpg)  
 
 [官方网站](http://eggtion.net)  
 

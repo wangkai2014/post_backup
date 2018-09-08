@@ -13,7 +13,7 @@ tags:
 
 <!--more-->
 
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/GifCam/gifcamaiming.gif)  
+![](/img/GifCam/gifcamaiming.gif)  
 [官方网站](http://blog.bahraniapps.com/gifcam/)  
 
 ## 下载
