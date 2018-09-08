@@ -6,9 +6,8 @@ date:       2018-01-21
 author:     Brywmzl
 header-img: img/post-bg-hacker.jpg
 catalog: true
-tags:
-    - 网络
-    - PuTTY
+tags: [PuTTY]
+categories: [网络工具]
 ---
 一个轻巧的终端
 

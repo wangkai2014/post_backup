@@ -3,7 +3,7 @@ layout:     post
 title:      HB Modelling
 date:       2018-09-04
 author:     Brywmzl
-tags: [CINEMA 4D,插件]
+tags: [C4D脚本]
 ---
 HB Modelling 是一个强大的 Cinema 4D 脚本合集可替代多个插件
 

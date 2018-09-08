@@ -6,10 +6,8 @@ date:       2018-06-12
 author:     Brywmzl
 header-img: img/CORONA/1-69fc7c2879.jpg
 catalog: true
-tags:
-    - CORONA
-    - CINEMA 4D
-    - 插件
+tags: [CORONA,C4D插件]
+categories: [渲染引擎]
 ---
 Corona Renderer在渲染中提供高质量，基于物理的阴影
 
@@ -24,5 +22,5 @@ Corona Renderer在渲染中提供高质量，基于物理的阴影
 
 
 ## 下载
->- [官方下载](https://corona-renderer.com/download)
->- [网盘下载](https://pan.baidu.com/s/1hnSl9XctdwTZNsrCXTE1kQ)
+> [官方下载](https://corona-renderer.com/download)
+> [网盘下载](https://pan.baidu.com/s/1hnSl9XctdwTZNsrCXTE1kQ)

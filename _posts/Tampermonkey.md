@@ -6,11 +6,8 @@ date:       2018-07-03
 author:     Brywmzl
 header-img: img/post-bg-js-version.jpg
 catalog: true
-tags:
-    - Greasy Fork
-    - Tampermonkey
-    - Chrome
-    - 插件
+tags: [Greasy Fork,Tampermonkey,Chrome插件]
+
 ---
 Greasy Fork是一个提供用户脚本的网站
 

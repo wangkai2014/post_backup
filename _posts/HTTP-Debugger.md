@@ -6,9 +6,8 @@ date:       2018-08-06
 author:     Brywmzl
 header-img: img/httpdebugger/bg.jpg
 catalog: true
-tags:
-    - HTTP Debugger
-    - 网络
+tags: [HTTP Debugger]
+categories: [网络工具]
 ---
 HTTP Debugger 是一款专业的http嗅探器拦截抓包工具
 

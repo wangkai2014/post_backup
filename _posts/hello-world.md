@@ -1,6 +1,6 @@
 ---
 title: Hello World
-tags: [tags1,tags2,tags3]
+tags: 
 date: 2015-10-20 06:49:50
 type: "categories"
 comments: false

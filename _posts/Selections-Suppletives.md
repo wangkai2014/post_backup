@@ -6,9 +6,7 @@ date:       2018-06-13
 author:     Brywmzl
 header-img: img/C4D/plug-ins/Code-Vonc/17.jpg
 catalog: true
-tags:
-    - CINEMA 4D
-    - 插件
+tags: [C4D插件]
 ---
 
 ![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/C4D/plug-ins/Code-Vonc/Selections-Suppletives/image_01.png)  

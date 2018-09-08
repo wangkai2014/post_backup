@@ -6,8 +6,8 @@ date:     2017-11-09
 author:     Brywmzl
 header-img: img/CCleaner/bg.jpg
 catalog: false
-tags:
-    - CCleaner
+tags: [CCleaner]
+categories: [系统工具]
 ---
 这是一款优秀的系统垃圾清理工具
 

@@ -6,8 +6,8 @@ date:       2018-06-20
 author:     Brywmzl
 header-img: img/BandiSoft/bg.jpg
 catalog: true
-tags:
-    - BandiSoft
+tags: [BandiSoft]
+categories: [系统工具]
 ---
 最好用的图片查看器和压缩软件都在这里
 

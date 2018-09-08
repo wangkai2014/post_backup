@@ -4,6 +4,7 @@ title:      Adobe After Effects
 date:       2018-09-01
 author:     Brywmzl
 tags: [Adobe,After Effects,Ae]
+categories: [视频编辑]
 password: 
 abstract: 
 message: 

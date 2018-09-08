@@ -6,8 +6,8 @@ date:       2018-06-23
 author:     Brywmzl
 header-img: img/Blender/ghost_driver_lukas_walzer.jpg
 catalog: true
-tags:
-    - Blender
+tags: [Blender]
+
 ---
 创造自由从这里开始
 

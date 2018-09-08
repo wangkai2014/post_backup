@@ -6,11 +6,8 @@ date:       2018-01-08
 author:     Brywmzl
 header-img: img/Octane/SPACEMAN_2560.jpg
 catalog: true
-tags:
-    - CINEMA 4D
-    - 插件
-    - Octane
-    - Render
+tags: [Octane,C4D插件]
+categories: [渲染引擎]
 ---
 世界上第一款最快,最好用,无偏差的GPU渲染器
 

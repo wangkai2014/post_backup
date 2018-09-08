@@ -6,9 +6,7 @@ date:       2018-01-13
 author:     Brywmzl
 header-img: img/User-Agent Switcher/bg.jpg
 catalog: true
-tags:
-    - Chrome
-    - 插件
+tags: [Chrome插件]
 ---
 这是一款浏览器用来伪装User-Agent的插件
 

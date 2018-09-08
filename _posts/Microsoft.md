@@ -6,9 +6,8 @@ date:       2018-07-21
 author:     Brywmzl
 header-img: img/Microsoft/bg.jpg
 catalog: true
-tags:
-    - Microsoft
-    - 微软
+tags: [Microsoft,微软]
+categories: [办公应用]
 ---
 https://www.microsoft.com
 

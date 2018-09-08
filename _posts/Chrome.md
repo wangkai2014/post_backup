@@ -5,10 +5,8 @@ subtitle:
 date:       2018-06-26
 author:     Brywmzl
 catalog: true
-tags:
-    - Google
-    - Chrome
-    - 插件
+tags: [Google,Chrome插件]
+
 ---
 https://www.google.com/chrome/
 

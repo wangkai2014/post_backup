@@ -6,9 +6,8 @@ date:       2018-06-05
 author:     Brywmzl
 header-img: img/Fluid-Mask/Bride-Veil-cutout-afterV2.jpg
 catalog: true
-tags:
-    - Fluid Mask
-    - 插件
+tags: [Ps插件]
+categories: [图像处理]
 ---
 高效快速抠图工具
 

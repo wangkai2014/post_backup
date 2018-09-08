@@ -6,10 +6,8 @@ date:       2017-11-26
 author:     Brywmzl
 header-img: img/Adobe/Trapcode-Suite-14-banner.jpg
 catalog: true
-tags:
-    - Adobe
-    - Adobe系列插件
-    - 插件
+tags: [Adobe]
+
 ---
 Adobe 插件下载
 

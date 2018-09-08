@@ -6,9 +6,8 @@ date:       2018-07-05
 author:     Brywmzl
 header-img: img/keyshot/keyshot-7-viewer-section-04.jpg
 catalog: true
-tags:
-    - KeyShot
-    - Render
+tags: [Keyshot]
+categories: [渲染引擎]
 ---
 惊艳的视觉效果 快速的实时渲染
 

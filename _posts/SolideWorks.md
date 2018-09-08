@@ -6,8 +6,9 @@ date:       2018-07-06
 author:     Brywmzl
 header-img: img/SolidWorks/bg.jpg
 catalog: true
-tags:
-    - SolidWorks
+tags: [SolidWorks]
+categories: [三维建模]
+
 ---
 这是产品设计必备的一款精准建模软件
 

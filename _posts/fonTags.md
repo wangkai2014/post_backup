@@ -6,8 +6,7 @@ date:       2018-04-04
 author:     Brywmzl
 header-img: img/fonTags/bg.jpg
 catalog: true
-tags:
-    - Adobe系列插件
+tags: [Ps插件,Ai插件,Id插件]
 ---
 超好用的Ps Ai Id字体管理插件
 
@@ -15,10 +14,10 @@ tags:
 
 [官方网站](http://nullice.com/fontags)
 
-## 下载
->- [官方下载](http://nullice.com/fontags)
+# 下载
+> [官方下载](http://nullice.com/fontags)
 
-## 说明
+# 说明
 > 拯救你的 Photoshop 字体列表
 
 ![](http://7d9pbx.com1.z0.glb.clouddn.com/fontags_ps_fonTags.png)  

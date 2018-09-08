@@ -6,8 +6,9 @@ date:       2018-02-21
 author:     Brywmzl
 header-img: img/tinypng/bg.jpg
 catalog: true
-tags:
-    - Adobe系列插件
+tags: [Ps插件]
+categories: [图像处理]
+
 ---
 在画质良好的情况下压缩图像的文件大小
 

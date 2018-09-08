@@ -7,6 +7,7 @@ author:     Brywmzl
 header-img: img/C4D/csm_R19-Packs-To-The-Right_long_09a07ff184.jpg
 catalog: true
 tags: [CINEMA 4D]
+categories: [三维建模]
 ---
 http://www.maxon.net
 

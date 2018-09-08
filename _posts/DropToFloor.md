@@ -6,9 +6,7 @@ date:       2018-09-03
 author:     Brywmzl
 header-img: img/C4D/csm_gits_video_top_770493397e.jpg
 catalog: true
-tags:
-    - CINEMA 4D
-    - 插件
+tags: [C4D插件]
 ---
 DropToFloor 是Cinema 4D的地面齐平插件
 
@@ -22,10 +20,10 @@ DropToFloor 是Cinema 4D的地面齐平插件
 * 支持 R14-R20
 
 ## 下载
->- [发布主页](http://alphapixel.net/drop-to-floor/)（password:`APlove2018`）
->- [Drop2FloorR20.zip](http://alphapixel.net/droptofloorR20)
->- [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/DropToFloor&parentPath=/App)
+> [发布主页](http://alphapixel.net/drop-to-floor/)（password:`APlove2018`）
+> [Drop2FloorR20.zip](http://alphapixel.net/droptofloorR20)
+> [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/DropToFloor&parentPath=/App)
 
 ## 旧版本
->- [~~原始主页~~](http://www.kuroyumes-developmentzone.com/)（已经关闭）
->- [国外分享下载](https://artedesaber.com.br/wp-content/uploads/2017/03/DropToFloor.zip)
+> [~~原始主页~~](http://www.kuroyumes-developmentzone.com/)（已经关闭）
+> [国外分享下载](https://artedesaber.com.br/wp-content/uploads/2017/03/DropToFloor.zip)

@@ -6,9 +6,8 @@ date:       2017-12-10
 author:     Brywmzl
 header-img: img/post-bg-hacker.jpg
 catalog: true
-tags:
-    - 网络
-    - Proxifier
+tags: [Proxifier]
+categories: [网络工具]
 ---
 这是一个可以分配进程网络走向的软件
 

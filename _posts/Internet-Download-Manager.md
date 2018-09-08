@@ -6,9 +6,7 @@ date:     2017-12-14
 author:     Brywmzl
 header-img: img/IDM/bg.jpg
 catalog: true
-tags:
-    - IDM
-    - Internet Download Manager
+tags: [IDM,Internet Download Manager,下载工具]
 ---
 这是一款国外的下载工具，提升你的下载速度最多达5倍，安排下载时程，或续传一半的软件。
 

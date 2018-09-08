@@ -7,6 +7,7 @@ author:     Brywmzl
 header-img: img/Aegisub/bg.jpg
 catalog: true
 tags:
+categories: [视频编辑]
 ---
 这是一款字幕组必备的软件
 

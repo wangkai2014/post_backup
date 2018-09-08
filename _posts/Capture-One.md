@@ -7,7 +7,7 @@ author:     Brywmzl
 header-img: img/CaptureOne/bg.jpg
 catalog: true
 tags: [Capture One]
-categories: [摄影]
+categories: [图像处理]
 ---
 这是一款 RAW 转换和图像编辑软件
 

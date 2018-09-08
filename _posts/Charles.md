@@ -6,9 +6,8 @@ date:       2018-4-23
 author:     Brywmzl
 header-img: img/Charles/bg.jpg
 catalog: true
-tags:
-    - Charles
-    - 网络
+tags: [Charles]
+categories: [网络工具]
 ---
 Charles是一个HTTP代理/ HTTP监视器/反向代理的工具
 

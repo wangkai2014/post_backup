@@ -6,8 +6,8 @@ date:       2018-05-01
 author:     Brywmzl
 header-img: img/Adobe/bg.jpg
 catalog: true
-tags:
-    - Adobe
+tags: [Adobe]
+categories: 
 ---
 http://www.adobe.com
 

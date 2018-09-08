@@ -6,15 +6,14 @@ date:       2017-11-23
 author:     Brywmzl
 header-img: img/post-bg-ios10.jpg
 catalog: true
-tags:
-    - Apple
+tags: [Apple]
 ---
 Apple 转区技巧
 
 <!--more-->
 
-## Apple ID 任意转区
-先[下载旧版 iCloud3.0 ](http://pan.baidu.com/s/1clnmea)并安装  
+# Apple ID 任意转区
+先[下载 iCloud3.0 ](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1tyxif)并安装  
 
 PS 在 iCloud 3.0 中使用想要修改地区的 Apple ID 进行登录。需要注意的是，旧版本的 iCloud 并非从官方网站上下载的，建议用户开启两步认证之后再登录，避免出现信息泄露的情况   
 
@@ -30,7 +29,7 @@ PS 在 iCloud 3.0 中使用想要修改地区的 Apple ID 进行登录。需要�
 3.点击“完成”之后，Apple ID 的注册邮箱会收到一封邮件，提示账单发送地址更新，即 Apple ID 已经成功更改地区  
 ![](http://mg.soupingguo.com/attchment2/ArticleImg/600/100/150/469/100408929.png)  
 
-## 可能遇到的问题
+# 可能遇到的问题
 - 美国等一些区域转区时一定要使用对应区域的信用卡（iCloud3.0解决），可以选择加拿大。
 - 有订阅服务时转区可能受到障碍，特别是 Apple Music 可能需要联系人工客服解决。
 - 账户有余额时不能转区，小金额可以联系人工客服直接清零。

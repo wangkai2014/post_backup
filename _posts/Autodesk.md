@@ -7,7 +7,7 @@ author:     Brywmzl
 header-img: img/Autodesk/2018/bg.jpg
 catalog: true
 tags: [Autodesk,CAD,3ds Max,Maya]
-
+categories: [三维建模]
 ---
 https://www.autodesk.com
 

@@ -6,10 +6,8 @@ date:       2017-12-09
 author:     Brywmzl
 header-img: img/Vray/wave-web-stefan-008b-uai-2064x836.jpg
 catalog: true
-tags:
-    - CINEMA 4D
-    - 插件
-    - Render
+tags: [C4D插件]
+categories: [渲染引擎]
 ---
 http://www.vrayforc4d.net
 

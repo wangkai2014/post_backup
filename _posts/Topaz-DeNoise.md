@@ -6,8 +6,8 @@ date:       2018-08-12
 author:     Brywmzl
 header-img: img/topazlabs/bottles_before2.jpg
 catalog: true
-tags: [Topaz DeNoise,插件]
-categories: [摄影]
+tags: [Topaz DeNoise,Ps插件]
+categories: [图像处理]
 ---
 这是一个降噪磨皮神器
 

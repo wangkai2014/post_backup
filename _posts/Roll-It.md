@@ -6,9 +6,7 @@ date:       2018-06-06
 author:     Brywmzl
 header-img: img/C4D/csm_gits_video_top_770493397e.jpg
 catalog: true
-tags:
-    - CINEMA 4D
-    - 插件
+tags: [C4D插件]
 ---
 
 ![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/C4D/plug-ins/eggtion/Alem/cinema4d.jpg)  

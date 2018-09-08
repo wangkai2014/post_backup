@@ -7,6 +7,7 @@ author:     Brywmzl
 header-img: img/Potplayer/bg.jpg
 catalog: true
 tags:
+categories: [系统工具]
 ---
 这是一款优秀的播放器
 

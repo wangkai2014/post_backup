@@ -6,9 +6,8 @@ date:       2018-01-05
 author:     Brywmzl
 header-img: img/Fiddler/banner_promotional_section.png
 catalog: true
-tags:
-    - Telerik Fiddler
-    - 网络
+tags: [Telerik Fiddler]
+categories: [网络工具]
 ---
 最专业的网络调试工具
 

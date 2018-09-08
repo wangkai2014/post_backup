@@ -6,8 +6,8 @@ date:       2018-06-03
 author:     http://diskgenius.cn
 header-img: img/DiskGenius/bg.jpg
 catalog: true
-tags:
-    - DiskGenius
+tags: [DiskGenius]
+categories: [磁盘芯片]
 ---
 DiskGenius 是专业级的数据恢复软件
 
@@ -36,6 +36,6 @@ DiskGenius还是一款功能全面，安全可靠的 硬盘分区功能工具
 GUID分区表、支持虚拟硬盘与动态磁盘、内附DOS版
 
 ## 下载
->- [DiskGenius v4.9.6.564 x86 海外绿色版 [英文/日语]](http://engdownload.eassos.cn/DGEng496564_x86.zip) 
->- [DiskGenius v4.9.6.564 x64 海外绿色版 [英文/日语]](http://engdownload.eassos.cn/DGEng496564_x64.zip)
->- [网盘下载](https://pan.baidu.com/s/1dnml4Eaii-efiTQnv8Praw)
+> [DiskGenius v4.9.6.564 x86 海外绿色版 [英文/日语]](http://engdownload.eassos.cn/DGEng496564_x86.zip) 
+> [DiskGenius v4.9.6.564 x64 海外绿色版 [英文/日语]](http://engdownload.eassos.cn/DGEng496564_x64.zip)
+> [网盘下载](https://pan.baidu.com/s/1dnml4Eaii-efiTQnv8Praw)

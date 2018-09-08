@@ -7,6 +7,7 @@ author:     Brywmzl
 header-img: img/Moo0/bg.jpg
 catalog: true
 tags:
+categories: [系统工具]
 ---
 http://zhs.moo0.com
 

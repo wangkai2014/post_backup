@@ -6,8 +6,8 @@ date:       2018-08-08
 author:     Brywmzl
 header-img: img/MediaCoder/bg.jpg
 catalog: true
-tags:
-    - MediaCoder
+tags: [MediaCoder]
+categories: [视频编辑]
 ---
 MediaCoder 是一款影音格式转换软件
 

@@ -6,9 +6,8 @@ date:       2018-08-22
 author:     Brywmzl
 header-img: img/Corel/CorelDRAW/bg.jpg
 catalog: true
-tags:
-    - Corel
-    - CorelDRAW
+tags: [Corel,CorelDRAW]
+categories: [图像处理]
 ---
 
 最受欢迎的领先矢量图形设计师
@@ -26,7 +25,7 @@ CorelDRAW Graphics Suite引入了全色矢量插图和布局的新概念，填�
 [CorelDRAW 中文网站](http://www.coreldrawchina.com/)  
 [官方演示视频](https://www.youtube.com/watch?v=Up_2sjU4GfU)  
 
-## 下载
+# 下载
 文件名：CorelDRAW Graphics Suite 2018 Retails v20.0.0.633 官方多语言零售版正式版
 ```
 magnet:?xt=urn:btih:E3E167775428DAE8739DA073A11FA8DA183E3960
@@ -39,10 +38,10 @@ magnet:?xt=urn:btih:241e412ac77d418212859919bb9d276ea8e7e279
 ```
 magnet:?xt=urn:btih:B7E7E7A35EEFF0BCA235B08152FD58B656A1D297
 ```
->- [Corel Products KeyGen 20180618](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1pfkja)
->- [网盘下载](https://pan.baidu.com/s/18-rPMtX738I8rWDB-Fiifw#list/path=/App/Corel/CorelDRAW&parentPath=/App)  
+> [Corel Products KeyGen 20180618](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1pfkja)
+> [网盘下载](https://pan.baidu.com/s/18-rPMtX738I8rWDB-Fiifw#list/path=/App/Corel/CorelDRAW&parentPath=/App)  
 
-## 安装说明
+# 安装说明
 
 * 屏蔽 host `%WinDir%\system32\drivers\etc\hosts`  
 
@@ -57,7 +56,7 @@ magnet:?xt=urn:btih:B7E7E7A35EEFF0BCA235B08152FD58B656A1D297
 
 [参考](http://www.epinv.com/post/7662.html)
 
-## 安装问题
+# 安装问题
 ![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/Corel/CorelDRAW/error_0.png)  
 * [完整移除CorelDRAW 2017](https://support.corel.com/hc/zh-tw/articles/115013707107--%E5%AE%89%E8%A3%9D-%E5%AE%8C%E6%95%B4%E7%A7%BB%E9%99%A4CorelDRAW-2017)  
 * 删除文件夹  

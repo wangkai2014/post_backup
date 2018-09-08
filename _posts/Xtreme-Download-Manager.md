@@ -6,9 +6,7 @@ date:       2018-06-25
 author:     Brywmzl
 header-img: img/XDM/bg.jpg
 catalog: true
-tags:
-    - XDM
-    - Xtreme Download Manager
+tags: [XDM，Xtreme Download Manager,下载工具]
 ---
 Xtreme Download Manager是一款功能强大的下载工具
 

@@ -7,6 +7,7 @@ author:     Brywmzl
 header-img: img/post-bg-debug.png
 catalog: false
 tags:
+categories: [系统工具]
 ---
 http://rocketdock.com/
 

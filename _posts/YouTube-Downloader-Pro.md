@@ -6,8 +6,7 @@ date:       2018-07-13
 author:     Brywmzl
 header-img: img/YoutubeDownloadPro/header.jpg
 catalog: true
-tags:
-    - Download
+tags: [Download,下载工具]
 ---
 YouTube Downloader Pro用于从视频网站下载和转换格式
 

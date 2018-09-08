@@ -6,8 +6,8 @@ date:       2018-07-07
 author:     Brywmzl
 header-img: img/Houdini/h16_banner.jpg
 catalog: true
-tags:
-    - Houdini
+tags: [Houdini]
+categories: [三维建模]
 ---
 电影和GAMEDEV的程序内容创作工具
 

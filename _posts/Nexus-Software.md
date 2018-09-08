@@ -7,6 +7,7 @@ author:     Brywmzl
 header-img: img/Nexus/bg.jpg
 catalog: true
 tags:
+categories: [系统工具]
 ---
 Nexus 它包含了多个优秀软件
 

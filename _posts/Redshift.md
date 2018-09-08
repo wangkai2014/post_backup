@@ -6,11 +6,8 @@ date:       2018-08-30
 author:     Brywmzl
 header-img: img/RedShift/261331074269.jpg
 catalog: true
-tags:
-    - CINEMA 4D
-    - Redshift
-    - 插件
-    - Render
+tags: [Redshift,C4D插件]
+categories: [渲染引擎]
 ---
 Redshift是世界上第一个完全基于GPU加速的，有偏差渲染器。
 <!--more-->
