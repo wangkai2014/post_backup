@@ -6,14 +6,18 @@ date:       2018-08-22
 author:     Brywmzl
 header-img: img/post-bg-os-metro.jpg
 catalog: true
-tags:
+tags: [ShadowSocks]
 
 ---
 ShadowSocks
+
 <!--more-->
+
 ## 下载
 * SS for Win
 	* [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases)  
+* SS for Android
+	* <a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks"><img src="\img\Chrome\google-play-download.png"></a>
 * SSR for Win
 	* [SoDa-GitHub shadowsocksr-csharp ssrr](https://github.com/SoDa-GitHub/shadowsocksrr-csharp/releases)（有装 360 2345 用不了）  
 	* [shadowsocksr-csharp ssr](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases)  
@@ -28,7 +32,6 @@ ShadowSocks
 	* [shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases)  
 	* [shadowsocksr-android ssr](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)  
 	* [shadowsocksr-android ssrr](https://github.com/shadowsocksrr/shadowsocksr-android/releases) 
-	* [shadowsocks Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)  
 	* [shadowsocks.apk](https://apps.evozi.com/apk-downloader/?id=com.github.shadowsocks)  
 	* [shadowsocksr-android ssr 3.4.0.8.apk](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk) 
 	* [网盘下载 shadowsocksr-android ssr 3.4.0.8.apk](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1pjt8h)  

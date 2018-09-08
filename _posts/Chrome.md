@@ -20,6 +20,9 @@ https://www.google.com/chrome/
 
 # 下载
 
+<a href="https://play.google.com/store/apps/details?id=com.android.chrome&amp;pcampaignid=thankyoupage"><img src="\img\Chrome\google-play-download.png"></a><a href="https://itunes.apple.com/us/app/chrome/id535886823"><img src="\img\Chrome\app-store-download.png"></a>
+
+[Chrome 官方下载](https://www.google.com/chrome/)
 
 # 插件
 
