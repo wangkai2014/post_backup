@@ -17,8 +17,8 @@ http://www.adobe.com
 [FC Portable](https://www.fcportables.com/)  
 
 ## 下载
->- [补丁&注册机](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack&parentPath=/App)  
->- [网盘下载](https://pan.baidu.com/s/1dF30ekx)  
+> [补丁&注册机](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack&parentPath=/App)  
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx)  
 
 ## 官方下载
 * [官方离线安装包](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html)  

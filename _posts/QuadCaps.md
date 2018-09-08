@@ -6,9 +6,7 @@ date:       2018-06-06
 author:     Brywmzl
 header-img: img/C4D/csm_gits_video_top_770493397e.jpg
 catalog: true
-tags:
-    - CINEMA 4D
-    - 插件
+tags: [CINEMA 4D,插件]
 ---
 QuadCaps 是一个Cinema 4D插件，帮助用户闭合多边形孔四边形网格，而不创建Ngons
 

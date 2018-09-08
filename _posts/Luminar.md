@@ -6,12 +6,14 @@ date:       2018-08-16
 author:     Brywmzl
 header-img: img/luminar/ls-af.jpg
 catalog: true
-tags:
-    - Luminar
+tags: [Luminar]
+categories: [摄影]
 ---
 专业照片滤镜缩短后期编辑
 
 <!--more-->
+
+![](/img/luminar/ls-af.jpg)
 
 [官方网站](https://skylum.com/luminar)
 

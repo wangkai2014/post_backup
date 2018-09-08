@@ -6,8 +6,8 @@ date:       2018-05-07
 author:     Brywmzl
 header-img: img/Autodesk/2018/bg.jpg
 catalog: true
-tags:
-    - Autodesk
+tags: [Autodesk,CAD,3ds Max,Maya]
+
 ---
 https://www.autodesk.com
 
@@ -20,8 +20,8 @@ https://www.autodesk.com
 [AUTODESK 2006〜2019所有产品通用KEYGENS FOR WIN＆MAC](http://free.appnee.com/v3mac-autodesk-20062018-all-products-universal-keygens/#more-1542)  
 
 ## 下载
->- [注册机下载](https://pan.baidu.com/s/1cjkKN0#list/path=/App/Autodesk/_Crack&parentPath=/App)  
->- [网盘下载](http://pan.baidu.com/s/1cjkKN0)  
+> [注册机下载](https://pan.baidu.com/s/1cjkKN0#list/path=/App/Autodesk/_Crack&parentPath=/App)  
+> [网盘下载](http://pan.baidu.com/s/1cjkKN0)  
 
 ## 官方下载
 * [所有产品](https://knowledge.autodesk.com/support)  

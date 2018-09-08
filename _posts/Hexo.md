@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: Hexo花样多
-date: 
+title: 页面调整各种乱
+date: 2018-09-04 23:59:59
 updated:
 comments: false
 tags: 
@@ -101,10 +101,6 @@ $ hexo clean && hexo g && hexo d
 * author -> 您的名字
 * language -> 网站使用的语言(写zh-cn也不起作用，官方文档也没详细说明)
 
-{% img cat https://placekitten.com/50/50 50 50 猫 喵喵喵] %}
-
-<br>{% emoji warning 48 %}文章到此还没写完 下面是草稿，请不要看了~{% emoji warning 48 %}
-
 # indigo Theme
 
 运行后你会发现默认的主题很怂，具体有多怂我这里也没法形容{% emoji fearful %}
@@ -143,34 +139,55 @@ http://www.materialpalette.com/
 # 附加
 
 ## 菜单icon运用
+
 https://fontawesome.com/icons
-名称查看
+名称查看（新版本图标不可用）
 http://fontawesome.dashgame.com/
 
 ## emoji插件
+
 [hexo-tag-emojis](https://github.com/sergiolepore/hexo-tag-emojis)
 需要在 hexo 的生成阶段把文章中的 emoji 标记渲染为图片或者 emoji 字体图标
-{% emoji ambulance 48 %} {% emoji 1234 48 %}<br>
+[emoji 名称查看](http://www.emoji-cheat-sheet.com/)
 
-{% emoji_block %}
+
+> {% emoji ambulance 48 %} {% emoji 1234 48 %}<br>
+
+{% codeblock %}
+{% raw %}{% emoji ambulance 48 %} {% emoji 1234 48 %}{% endraw %}
+{% endcodeblock %}
+
+> {% emoji_block %}
 博客界面进行调整 导致部分界面无法按照原来的主题进行渲染 :alien:<p>
 本次改用Hexo博客 主题是indigo :alien:<br>
 {% endemoji_block %}
 
-## 文章加密
+{% codeblock %}
+{% raw %}{% emoji_block %}
+博客界面进行调整 导致部分界面无法按照原来的主题进行渲染 :alien:<p>
+本次改用Hexo博客 主题是indigo :alien:
+{% endemoji_block %}{% endraw %}
+{% endcodeblock %}
 
-https://github.com/MikeCoder/hexo-blog-encrypt
+## 文章加密插件
+
+***都不是很好用***
+https://github.com/MikeCoder/hexo-blog-encrypt （目录渲染不出来）
 https://github.com/edolphin-ydf/hexo-encrypt
 
 # 页面
 
-## Markdown
+## 页面渲染
+
+**表格**
 
 | 表头1|表头2|表头3|表头4
 |-| :- | :-: | -: |
 |默认左对齐|左对齐|居中对其|右对齐|
 |默认左对齐|左对齐|居中对其|右对齐|
 |默认左对齐|左对齐|居中对其|右对齐|
+
+**图片按钮**
 
 {% codeblock %}
 {% raw %}[!{% endraw %}{% raw %}[Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY){% endraw %}
@@ -192,25 +209,55 @@ https://github.com/edolphin-ydf/hexo-encrypt
 
 <a href="https://youtube.com"><img src="/img/post-bg-os-metro.jpg"></a>
 
+**图片**
+
+{% img cat https://placekitten.com/50/50 50 50 猫 喵喵喵] %}
+
+{% codeblock %}
+{% raw %}{% img cat https://placekitten.com/50/50 50 50 猫 喵喵喵] %}{% endraw %}
+{% endcodeblock %}
+
+![猫 喵喵喵](https://placekitten.com/50/50)
+
+{% codeblock %}
+{% raw %}!{% endraw %}[猫 喵喵喵](https://placekitten.com/50/50)
+{% endcodeblock %}
+
+---
+
+**字体**
+
 *这里是斜体*
 **这里是粗体**
 ***这里是粗体 + 斜体***
 
-## 自定义页面
-https://gist.github.com/yscoder/0fd1332c2b8bef21115cbaa20f11d7ce
+---
 
-注释符号
-```
+**注释符号**
+
+```card
 {% raw %}
 {% endraw %}
 ```
+
+## 自定义页面
+
+[自定义页面](https://gist.github.com/yscoder/0fd1332c2b8bef21115cbaa20f11d7ce)
+自定义页面还存在很多问题（例如图片被拉伸来强制适应card）
+
 ## 支持 html 后就是爽~
 
 直接复制 html代码直接可用
 https://fontawesome.com/icons
 
-官方提供的标签
+
+
 {% youtube MlQoqO7MJ7Q %}
+
+{% codeblock 官方提供的标签 https://hexo.io/docs/tag-plugins#YouTube 官方文档 %}
+{% raw %}{% youtube video_id %}
+{% vimeo video_id %}{% endraw %}
+{% endcodeblock %}
 
 {% codeblock 窄屏 %}
 <iframe width="666" height="400" src="https://www.youtube.com/embed/MlQoqO7MJ7Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -221,7 +268,8 @@ https://fontawesome.com/icons
 {% endcodeblock %}
 
 # 改造
-https://starwindy.oschina.io/2015/05/06/Hexo%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BC%98%E5%8C%96%EF%BC%88%E4%BA%8C%EF%BC%89/
+[Hexo主题配置与优化（二）](https://starwindy.oschina.io/2015/05/06/Hexo主题配置与优化（二）)
+
 修改标签显示的标题 `\themes\indigo\layout\_partial\head.ejs`
 {% codeblock %}
     <title><% if (title){ %><%= title %> | <% } %><%= config.title %><% if (config.subtitle){ %> | <%= config.subtitle %><% } %></title>
@@ -245,6 +293,11 @@ darkPrimaryColor: dark主色调
 {% blockquote .avatar %}
 border: 描边的粗细
 border-radius: 描边半径（这里不是半径的意思0%-49%圆角 %50%-100%是圆）
+{% endblockquote %}
+
+{% blockquote .brand %}
+padding: 头像背景的高度
+background: （头像后面的背景颜色，不透明度）
 {% endblockquote %}
 
 {% blockquote 作者 https://brywmzl.github.io Brywmzl %}

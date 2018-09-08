@@ -6,13 +6,14 @@ date:       2018-08-12
 author:     Brywmzl
 header-img: img/topazlabs/bottles_before2.jpg
 catalog: true
-tags:
-    - Topaz DeNoise
-    - 插件
+tags: [Topaz DeNoise,插件]
+categories: [摄影]
 ---
 这是一个降噪磨皮神器
 
 <!--more-->
+
+![](/img/topazlabs/bottles_before2.jpg)
 
 [官方网站](https://topazlabs.com)
 

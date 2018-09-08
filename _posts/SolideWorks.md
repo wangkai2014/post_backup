@@ -57,56 +57,56 @@ magnet:?xt=urn:btih:BD10BA477D9CE7A6127056A5AF8EF7B1D1E39AD8
 >- [网盘下载](https://pan.baidu.com/s/1slvAamD)  
 
 ## 安装说明
-[SolidWorks2018安装教程](http://jingyan.baidu.com/article/2fb0ba40f9350400f2ec5f2a.html?allowHTTP=1)  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/1.png) 
-* 运行注册机（有管理员权限的系统，请以管理员身份运行）  
-* 点击 `1.Set Serial Number` 设置序列号  
-* 选择 `Force Local Activation Serial Numbers` 强制本地激活序列号  
-* 点击 `Accept Serial Numbers` 接收序列号  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/2.png) 
+[SolidWorks2018安装教程](http://jingyan.baidu.com/article/2fb0ba40f9350400f2ec5f2a.html?allowHTTP=1)
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/1.png)
+* 运行注册机（有管理员权限的系统，请以管理员身份运行）
+* 点击 `1.Set Serial Number` 设置序列号
+* 选择 `Force Local Activation Serial Numbers` 强制本地激活序列号
+* 点击 `Accept Serial Numbers` 接收序列号
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/2.png)
 * 点击 `Yes` 继续
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/3.png) 
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/3.png)
 * 序列号更改 点击 `确认` 
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/4.png) 
-* 点击 `2.Activate Licenses` 激活许可  
-* 选择 `SolidWorks XXXX Products` 选择版本  
-* 点击 `Activate Licenses` 激活许可  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/5.png) 
-* 点击 `Yes` 继续  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/6.png) 
-> 部分或全部的序列号在这个系统需要网络浮动许可。  
-> 你要生成这个许可文件吗？  
-> 他可以用在现在的电脑也可以用在别的电脑。 
-* 如果不要许可文件点击 `No` 
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/7.png) 
-* 许可激活 点击 `确认`  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/8.png) 
-* 断网后，运行安装程序 `Setup.exe`  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/9.png) 
-* 下一步  
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/4.png)
+* 点击 `2.Activate Licenses` 激活许可
+* 选择 `SolidWorks XXXX Products` 选择版本
+* 点击 `Activate Licenses` 激活许可
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/5.png)
+* 点击 `Yes` 继续
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/6.png)
+> 部分或全部的序列号在这个系统需要网络浮动许可。
+> 你要生成这个许可文件吗？
+> 他可以用在现在的电脑也可以用在别的电脑。
+* 如果不要许可文件点击 `No`
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/7.png)
+* 许可激活 点击 `确认`
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/8.png)
+* 断网后，运行安装程序 `Setup.exe`
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/9.png)
+* 下一步
 ![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/10.png) 
 * 下一步  
 ![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/11.png) 
 * 此时如果没有连接网络或连不上 就点 `取消`  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/12.png) 
-* 有安装过的会提示移除选项  
-* 下一步  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/13.png) 
-* `选择不同软件包或产品` 可以显示出隐藏选项  
-* `简体中文`要在 `SolidWorks 语言` 里面选择  
-* 展开 `SOLIDWORKS`   里面有很多用不到的勾可以去掉。。。  
-* 点击 `现在安装`  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/14.png) 
-* 下一步（这个过程比较漫长。。。）  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/15.png) 
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/12.png)
+* 有安装过的会提示移除选项
+* 下一步
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/13.png)
+* `选择不同软件包或产品` 可以显示出隐藏选项
+* `简体中文`要在 `SolidWorks 语言` 里面选择
+* 展开 `SOLIDWORKS`   里面有很多用不到的勾可以去掉。。。
+* 点击 `现在安装`
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/14.png)
+* 下一步（这个过程比较漫长。。。）
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/15.png)
 * 安装完回到注册机  
 * 点击 `3.Copy Loaders` 拷贝装载  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/16.png) 
-* 装载拷贝 点击 `确认`  
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/16.png)
+* 装载拷贝 点击 `确认`
 * 完成激活！
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/17.png) 
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/17.png)
 * 如果打开软件出现这个界面 那就是 激活失败 或者是 许可被吊销了
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/18.png) 
+![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/SolidWorks/18.png)
 * 点击 `Remove All Loaders` 移除所有装载
 * 点击 `Purge All Activations` 清除所有激活
 * 然后在执行上面的 注册机操作

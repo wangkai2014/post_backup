@@ -6,12 +6,14 @@ date:       2018-4-19
 author:     Brywmzl
 header-img: img/CaptureOne/bg.jpg
 catalog: true
-tags:
-    - Capture One
+tags: [Capture One]
+categories: [摄影]
 ---
 这是一款 RAW 转换和图像编辑软件
 
 <!--more-->
+
+![](/img/CaptureOne/bg.jpg)
 
 [官方网站](https://www.phaseone.com/)  
 [学习中心](https://www.phaseone.com/zh-CN/Products/Software/Capture-One-Pro/Learning-Hub.aspx)

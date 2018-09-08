@@ -15,5 +15,5 @@ tags:
 [官方网站](http://www.aegisub.org/)  
 
 ## 下载
->- [官方下载](http://www.aegisub.org/downloads/)  
->- [网盘下载](https://pan.baidu.com/s/1nvehBxJ)  
+> [官方下载](http://www.aegisub.org/downloads/)  
+> [网盘下载](https://pan.baidu.com/s/1nvehBxJ)  

@@ -19,5 +19,5 @@ Al’em 是Cinema 4D对象对齐插件
 [官方网站](http://eggtion.net)  
 
 ## 下载
->- [官方网站](http://eggtion.net/playground/cinema4d/alem)
->- [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/eggtion/Alem&parentPath=/App)
+> [官方网站](http://eggtion.net/playground/cinema4d/alem)
+> [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/eggtion/Alem&parentPath=/App)
