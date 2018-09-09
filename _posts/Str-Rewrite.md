@@ -14,11 +14,11 @@ Str Rewrite 是一款针对str文件重写的工具
 
 ![](/img/StrRewrite/post-5.png)  
 
-## 下载
->- [最新下载](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1165jc)
->- [历史版本](https://pan.lanzou.com/b174194)
+# 下载
+> [最新下载](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1165jc)
+> [历史版本](https://pan.lanzou.com/b174194)
 
-## 更新日志
+# 更新日志
 * 1.05（半工中。。。）
 	* 调整 界面
 	* 新增 字典文件针对
@@ -99,10 +99,10 @@ Str Rewrite 是一款针对str文件重写的工具
 		* 支持`排序`（默认升序排序）
 		* 支持`忽略未定义`（值=?的不被合并）
 
-## 丢失的版本
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/StrRewrite/post-0.png)  
+# 丢失的版本
+![](/img/StrRewrite/post-0.png)  
 
-## 更新日志
+# 更新日志
 * 1.0.7  
 	* 新增-创建副本文件（*.DUP）  
 	* 新增-删除当前目录的副本文件（*.DUP）  

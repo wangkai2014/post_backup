@@ -15,11 +15,11 @@ categories: [网络工具]
 
 [官方网站](http://www.proxifier.com)  
 
-## 下载  
->- [官方下载](http://www.proxifier.com/download.htm)  
->- [网盘下载](https://pan.baidu.com/s/1i4WhX0h)  
+# 下载  
+> [官方下载](http://www.proxifier.com/download.htm)  
+> [网盘下载](https://pan.baidu.com/s/1i4WhX0h)  
 
-## 安装说明
+# 安装说明
 License Key:
 * Proxifier Standard Edition（标准版）
 	* `6KZNN-8Y2LZ-L223E-UUPPS-484F8`

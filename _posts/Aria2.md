@@ -6,8 +6,8 @@ date:       2018-08-05
 author:     Brywmzl
 header-img: img/Aria/bg.jpg
 catalog: true
-tags: [Ariar2,下载工具]
-categories: 
+tags: [Ariar2]
+categories: [下载工具]
 ---
 Aria2的轻量级多线程下载软件
 

@@ -15,9 +15,9 @@ tags:
 
 [官方网站](https://notepad-plus-plus.org/)
 
-## 下载
->- [官方下载](https://notepad-plus-plus.org/download/)
+# 下载
+> [官方下载](https://notepad-plus-plus.org/download/)
 
-## 插件下载
->- [plugin manager](https://github.com/bruderstein/nppPluginManager/releases)
->- [JSON-Viewer](https://github.com/kapilratnani/JSON-Viewer/releases)
+# 插件下载
+> [plugin manager](https://github.com/bruderstein/nppPluginManager/releases)
+> [JSON-Viewer](https://github.com/kapilratnani/JSON-Viewer/releases)

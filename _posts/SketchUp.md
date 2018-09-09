@@ -19,12 +19,12 @@ categories: [三维建模]
 [官方网站](https://www.sketchup.com)  
 [appnee](https://appnee.com/sketchup-pro-82018-full-installers-unlock-patches-aio/)
 
-## 下载
->- [官方下载](https://www.sketchup.com/download/all)  
->- [官方简体中文版下载](https://www.sketchup.com/zh-CN/download/all#zh-CN)  
->- [网盘下载](https://pan.baidu.com/s/1wVCc5F4r6Cet2hLNeY-uCg)
+# 下载
+> [官方下载](https://www.sketchup.com/download/all)  
+> [官方简体中文版下载](https://www.sketchup.com/zh-CN/download/all#zh-CN)  
+> [网盘下载](https://pan.baidu.com/s/1wVCc5F4r6Cet2hLNeY-uCg)
 
-## 2018安装说明
+# 2018安装说明
 * `SketchUp` 复制到 `C:\Program Files\SketchUp\SketchUp 2018`
 * `LayOut` 复制到 `C:\Program Files\SketchUp\SketchUp 2018\LayOut`
 * `Style Builder` 复制到 `C:\Program Files\SketchUp\SketchUp 2018\Style Builder`

@@ -14,18 +14,18 @@ QuadCaps 是一个Cinema 4D插件，帮助用户闭合多边形孔四边形网�
 
 ![](/img/C4D/plug-ins/QuadCaps/quadcaps.jpg)  
 
-## 下载
->- [官方主页](http://www.c4dzone.com/en/shop/plug-ins-17/quadcaps-1-0-255.htm)
->- [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/QuadCaps&parentPath=/App)
+# 下载
+> [官方主页](http://www.c4dzone.com/en/shop/plug-ins-17/quadcaps-1-0-255.htm)
+> [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/QuadCaps&parentPath=/App)
 
-## 安装说明
+# 安装说明
 * 将 `QuadCaps_en` 里面的 `quadcaps` 文件夹拷贝到 `plugins` 文件夹下
 * 将 `Quad_Caps_1.0_KG` 文件夹拷贝到 `plugins` 文件夹下
 * 启动CINEMA 4D，打开插件菜单下选择 `QuadCaps Kengen` 弹出许可文件生成窗口，点击 `Generate youe license` ，弹出序列号窗口，右键复制序列号
 * 插件菜单下选择 `Reload Python Plugin` 弹出插件注册窗口，粘贴序列号，点击 `Activate youe license` ，就可以激活插件了
 * 关闭CINEMA 4D，删掉插件目录下的`Quad_Caps_1.0_KG` 文件夹，开启CINEMA 4D，就可以看到QuadCaps插件了
 
-## 使用说明
+# 使用说明
 {% vimeo 83837885 %}
 
 * QuadCaps

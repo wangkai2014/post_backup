@@ -6,8 +6,8 @@ date:       2018-06-27
 author:     Brywmzl
 header-img: img/QrCode Monkey/bg.jpg
 catalog: true
-tags:
-    - QrCode
+tags: [QrCode]
+
 ---
 一个很好的二维码平台
 

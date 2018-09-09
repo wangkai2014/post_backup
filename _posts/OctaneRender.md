@@ -15,10 +15,10 @@ categories: [渲染引擎]
 
 [官方网站](https://home.otoy.com/render/octane-render/)
 
-## 下载  
->- [网盘下载](https://pan.baidu.com/s/1eR3i0oU)  
+# 下载  
+> [网盘下载](https://pan.baidu.com/s/1eR3i0oU)  
 
-## 安装说明  
+# 安装说明  
 * 1、将对应C4D版本的比如R19的`c4dOctane-R19.cdl64`拷贝到`c4doctane`文件夹内  
 * 2、将`c4doctane`文件夹拷贝到C4D安装目录的`plugins`文件夹下，确保你的`c4doctane`文件夹内容，cdl64文件根据你的C4D版本而定  
 ![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/Octane/1.png)  

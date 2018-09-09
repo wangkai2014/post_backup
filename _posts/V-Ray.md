@@ -18,5 +18,5 @@ V-Ray for Cinema 4D is a professional rendering solution for Cinema 4D users, lo
 [官方网站](http://www.vrayforc4d.net/)  
 [用户手册](http://vrayforc4d.net/docs/)  
 
-## 下载 
->- [网盘下载](https://pan.baidu.com/s/1skDAPC5)  
+# 下载 
+> [网盘下载](https://pan.baidu.com/s/1skDAPC5)  

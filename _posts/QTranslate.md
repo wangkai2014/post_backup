@@ -1,12 +1,12 @@
 ﻿---
 layout:     post
-title:      QTranslate [翻译工具]
+title:      QTranslate
 subtitle:   这是一款优秀的翻译软件
 date:       2017-12-09
 author:     Brywmzl
 header-img: img/tag-bg-o.jpg
 catalog: true
-tags:
+tags: [翻译工具]
 
 ---
 这是一款优秀的翻译软件

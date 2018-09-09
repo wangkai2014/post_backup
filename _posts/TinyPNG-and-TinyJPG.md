@@ -16,11 +16,11 @@ categories: [图像处理]
 
 [官方网站](https://tinypng.com/)（支持在线压缩图片）
 
-## 下载
->- [Photoshop Plugin](https://tinypng.com/photoshop)
->- [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ps/TinyPNG-JPG&parentPath=/App)
+# 下载
+> [Photoshop Plugin](https://tinypng.com/photoshop)
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ps/TinyPNG-JPG&parentPath=/App)
 
-## 安装说明
+# 安装说明
 安装包是官网下载的，但是在高版本的ps中安装过程可能会出现“找不到适合的ps版本”的错误
 * 解压安装程序后，根据ps版本
 	* 在`Program Files/Common Files/Adobe/Plugins/CC`中创建`TinyPNG`文件夹

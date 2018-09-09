@@ -19,11 +19,11 @@ Bandicam是录制游戏视频、视频截图、屏幕录制的功能强大的软
 [官方网站](https://www.bandicam.com)  
 [更新日志](http://bandicam.com/downloads/version_history)  
 
-## 下载  
->- [官方免费下载](https://www.bandicam.com/cn/downloads/ing/)  
->- [网盘下载](http://pan.baidu.com/s/1dEFY5A5)  
+# 下载  
+> [官方免费下载](https://www.bandicam.com/cn/downloads/ing/)  
+> [网盘下载](http://pan.baidu.com/s/1dEFY5A5)  
 
-## 安装说明
+# 安装说明
 
 * 添加 host `%WinDir%\system32\drivers\etc\hosts`
 ```

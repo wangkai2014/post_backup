@@ -16,11 +16,11 @@ PolyCircle 是顶点和多边形变为圆形的插件
 
 [官方网站](http://coffeestock.boo.jp/Blog/)  
 
-## 下载
->- [PolyCircle v1.6](http://coffeestock.boo.jp/Blog/?page_id=172)
->- [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/COFFEE_STOCK/PolyCircle&parentPath=/App)
+# 下载
+> [PolyCircle v1.6](http://coffeestock.boo.jp/Blog/?page_id=172)
+> [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/COFFEE_STOCK/PolyCircle&parentPath=/App)
 
-## 使用说明
+# 使用说明
 “PolyCircle”是将选择的顶点和多边形以圆形形状变形的插件。  
 变形时的基准面也可以选择法线方向，各轴方向，视点方向。
 

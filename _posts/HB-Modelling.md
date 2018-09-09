@@ -13,9 +13,9 @@ HB Modelling 是一个强大的 Cinema 4D 脚本合集可替代多个插件
 
 # 下载
 
->- [官方主页](https://motionworks.net/shop/hb-modelling-bundle/)
->- [helloluxx 主页](https://helloluxx.com/product/hb-modellingbundle-for-cinema-4d/)
->- [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Script/HB Modelling&parentPath=/App)
+> [官方主页](https://motionworks.net/shop/hb-modelling-bundle/)
+> [helloluxx 主页](https://helloluxx.com/product/hb-modellingbundle-for-cinema-4d/)
+> [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Script/HB Modelling&parentPath=/App)
 
 # 安装说明
 

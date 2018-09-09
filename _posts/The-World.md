@@ -13,7 +13,7 @@ ShadowSocks
 
 <!--more-->
 
-## 下载
+# 下载
 * SS for Win
 	* [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases)  
 * SS for Android
@@ -38,7 +38,7 @@ ShadowSocks
 	* [网盘下载](http://pan.ccav1.me/lanzou.php?type=down&url=https://pan.lanzou.com/i0j7w5i)（需要Root）  
 
 
-## 其他
+# 其他
 * [了解更多客户端找聪聪](https://congcong0806.github.io/)  
 * [自由上网了解一下](https://github.com/Alvin9999/new-pac/wiki)  
 * [自建ss/ssr教程](https://github.com/Alvin9999/new-pac/wiki/自建ss服务器教程)  
@@ -50,7 +50,7 @@ ShadowSocks
 
 ![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/TheWorld/Subscribe.jpg)  
 
-## 脚本
+# 脚本
 * 快速脚本
 ```
 wget https://github.com/Brywmzl/SSR/raw/master/SSR && bash SSR

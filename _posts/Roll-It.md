@@ -13,6 +13,6 @@ tags: [C4D插件]
 
 [官方网站](http://eggtion.net)  
 
-## 下载
->- [官方主页](http://eggtion.net/playground/cinema4d/Roll-It)
->- [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/eggtion/Roll-It&parentPath=/App)
+# 下载
+> [官方主页](http://eggtion.net/playground/cinema4d/Roll-It)
+> [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/eggtion/Roll-It&parentPath=/App)
