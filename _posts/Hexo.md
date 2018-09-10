@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: 页面调整各种乱
-date: 2018-09-08 23:59:59
+date: 2018-09-10 23:59:59
 updated:
 comments: false
 tags: 
@@ -211,10 +211,10 @@ https://github.com/edolphin-ydf/hexo-encrypt
 
 **图片**
 
-{% img cat https://placekitten.com/50/50 50 50 猫 喵喵喵] %}
+{% img cat https://placekitten.com/50/50 50 50 猫 喵喵喵 %}
 
 {% codeblock %}
-{% raw %}{% img cat https://placekitten.com/50/50 50 50 猫 喵喵喵] %}{% endraw %}
+{% raw %}{% img cat https://placekitten.com/50/50 50 50 猫 喵喵喵 %}{% endraw %}
 {% endcodeblock %}
 
 ![猫 喵喵喵](https://placekitten.com/50/50)
@@ -298,6 +298,13 @@ border-radius: 描边半径（这里不是半径的意思0%-49%圆角 %50%-100%�
 {% blockquote .brand %}
 padding: 头像背景的高度
 background: （头像后面的背景颜色，不透明度）
+{% endblockquote %}
+
+修改自定义页面 `\themes\indigo\source\css\_partial\page.less`
+
+{% blockquote %}
+border-bottom: 最底下的分割线
+img: 改了img的width和height为空就可以解决图片拉伸问题
 {% endblockquote %}
 
 {% blockquote 作者 https://brywmzl.github.io Brywmzl %}

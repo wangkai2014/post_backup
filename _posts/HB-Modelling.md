@@ -24,6 +24,10 @@ HB Modelling 是一个强大的 Cinema 4D 脚本合集可替代多个插件
 * 文件误删了，暂不提供下载
 
 # 包含内容
+
+[hB建模脚本概述（上）](https://www.zcool.com.cn/article/ZNjQ3OTA4.html)
+[hB建模脚本概述（下）](https://www.zcool.com.cn/article/ZNjQ4MDA4.html)
+
 ![](/img/C4D/script/HB/Bildschirmfoto-2015-07-01-um-07.38.52.png)
 
 HB Modeling Bundle是一套超过70个用于3D模型的Cinema 4D脚本。这些脚本旨在通过减少点击次数和减少鼠标移动来节省您的时间并改善您的工作流程。

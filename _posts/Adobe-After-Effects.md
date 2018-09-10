@@ -58,7 +58,7 @@ Adobe After Effects 是Adobe公司推出的一款图形视频处理软件
 ## GenArts Sapphire [Ae插件]
 ![](http://imglf0.ph.126.net/iS5Iwo0mrvZCaiaD1iv_Zw==/6630877550187109557.png)  
 > [GenArts Sapphire v8.0.1 网盘下载](http://pan.baidu.com/s/1pJNtqu3)  
-> [GenArts Sapphire v8.0.0 网盘下载](http://www.redgiant.com/products/trapcode-suite/)  
+> [GenArts Sapphire v8.0.0](http://www.redgiant.com/products/trapcode-suite/)  
 
 ## REFlex [Ae变脸插件]
 > [网盘下载](http://pan.baidu.com/s/1c2cvV1m)  
