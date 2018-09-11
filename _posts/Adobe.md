@@ -2,7 +2,7 @@
 layout:     post
 title:      Adobe 系列软件
 subtitle:   http://www.adobe.com
-date:       2018-05-01
+date:       2018-09-11
 author:     Brywmzl
 header-img: img/Adobe/bg.jpg
 catalog: true
@@ -16,13 +16,15 @@ http://www.adobe.com
 [官方网站](http://www.adobe.com/)  
 [FC Portable](https://www.fcportables.com/)  
 
-## 下载
+# 下载
+
 > [补丁&注册机](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack&parentPath=/App)  
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx)  
 
-## 官方下载
-* [官方离线安装包](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html)  
-* [官方在线安装包以及 Creative Cloud](https://www.adobe.com/creativecloud/catalog/desktop.html)  
+# 官方下载
+
+> [官方离线安装包](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html)  
+> [官方在线安装包以及 Creative Cloud](https://www.adobe.com/creativecloud/catalog/desktop.html)  
 
 |Product|Windows|Mac OS
 |:-:|:-:|:-:
@@ -51,35 +53,80 @@ http://www.adobe.com
 |SpeedGrade CC|[Win (64 bit)](http://prdl-download.adobe.com/SpeedGrade/1CC0FA5AC5BB48478EB666B24D9A609F/1509443936439/SpeedGrade_9_LS20.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/SpeedGrade/1CC0FA5AC5BB48478EB666B24D9A609F/1509445098629/SpeedGrade_9_LS20.dmg)
 |Scout|[Win (64 bit)](http://prdl-download.adobe.com/Adobe%20Scout/00B594044C0F409D82F41E1E719AF93B/1510396350714/Scout_1_1_3_LREFJC.msi)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Adobe%20Scout/00B594044C0F409D82F41E1E719AF93B/1510395863244/Scout_1_1_3_LREFJC.dmg)
 
-## 补丁安装
-[CS5](http://blog.sina.com.cn/s/blog_6723f54b0102wk1x.html)  
+# 补丁激活
 
-## 脱机激活
-[CC 2018 请参考](http://www.yishimei.cn/network/736.html)  
+* 执行完安装步骤
+* 开始补丁（三选一）
 
-1.断开互联网
+**方法1** *（此方法仅供2018使用）*
+> ![](/img/Adobe/crack_1_1.png)
+> 1.运行 [Adobe.CC2018.Anticloud](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1ul5he)
+> 2.单击“Install”，就好了！
+
+**方法2** *（此方法仅供CC版本使用）*
+> ![](/img/Adobe/crack_2_1.png)
+> 1.运行 [amtemu.v0.9.2.win-painter](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1ul7pe)
+> 2.单击“Install”
+> 3.选择文件“amtlib.dll”
+> 4.单击“Patch”，就好了！
+
+**方法3** *（此方法所有版本通用）*
+> 将对应的 [amtlib.dll](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack&parentPath=/App) 文件复制到安装目录中替换，就好了！
+
+## Xd 激活
+* [参考](http://www.ui.cn/detail/300549.html) 
+
+# 注册机激活
+
+**CC 2018**
+
+1.下载并安装 [Adobe Creative Cloud应用程序](https://www.adobe.com/creativecloud/catalog/desktop.html)
+
+2.如果你没有[Adobe ID](https://accounts.adobe.com/)创建一个，并安装您需要的所有应用程序，安装完不要运行！
+
+3.将 `C:\Program Files（x86)\Common Files\Adob​​e\OOBE` 文件夹重命名“PDApp”，或者把它删掉
+
+4.安装 [Adobe Application Manager 8.0](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1uleef)
+
+5.断网
+
+6.以管理员身份运行 “disable_activation.cmd”（如果不以管理员身份运行，将不会修改任何内容）
+
+7.打开应用程序并使用 [xf-adobecc2015.exe](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1ulgad) 激活。
+* 单击“对软件进行许可”（不要点击 开始试用）
+* 单击“稍后连接”（当被要求ID /互联网连接）
+* 单击“连接到互联网时遇到问题”（这只有在你完成步骤3和4时才会出现）
+* 使用在 Keygen 中生成代码以生成响应。
+
+<br>{% emoji warning %} 如果完成以上步骤没有显示应用程序自动打开，请不要担心，关闭应用程序并再次打开它，几秒钟后会提示您激活它。
+
+---
+
+1.断网
 * 删除以下host `%WinDir%\system32\drivers\etc\hosts`  
-`127.0.0.1 lmlicenses.wip4.adobe.com`  
-`127.0.0.1 lm.licenses.adobe.com`  
- 
-2.打开 [xf-adobecc2015.exe](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack/CC 2015/_Keygen&parentPath=/App) ，生成序列号（请勿关闭注册机）  
+```
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+```
+
+2.打开 [xf-adobecc2015.exe](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1ulgad) ，生成序列号（请勿关闭注册机）  
 * 打开安装程序  
-* 点击“安装”（我已经购买）  
-* 点击登录
-* 选择稍后连接  
+* 单击“安装” （我已经购买）  
+* 单击“登录”
+* 选择 “稍后连接”
 * 接受许可协议，输入序列号  
-* 点击下一步，出现错误提示“请连接到互联网，然后重试”后，点击稍后连接  
+* 单击“下一步”，出现错误提示“请连接到互联网，然后重试”后，点击"稍后连接”
 
 3.启动应用程序  
 * 点击“接到互联网时遇到麻烦吗？”  
-* 点击离线激活  
-* 复制安装界面中的请求码（Requets）  
-* 放入注册机的Requets  
-* 点击 生成（Generate）
-* 放入激活码（Activation），激活  
-* 退出应用程序  
+* 点击“脱机激活”  
+* 复制安装界面中的请求码 “Requets”
+* 放入注册机的 “Requets”
+* 点击 生成 “Generate”
+* 放入激活码 “Activation” ，激活  
 
-4.完成安装后，添加host `%WinDir%\system32\drivers\etc\hosts`  
+4.完成后，阻止Adobe IP
+* 添加 host `%WinDir%\system32\drivers\etc\hosts`
 ```
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 lm.licenses.adobe.com
@@ -89,9 +136,15 @@ http://www.adobe.com
 127.0.0.1 activate.adobe.com
  ```
 
-5.完成注册，享受。（能在线升级）  
+5.完成，尽情享受吧！（能在线升级）  
 
-## 安装错误
+---
+
+[参考](https://www.ultravfx.com/2017/10/crack-adobe-cc-2018-winmac-app-easily-tutorial1/)
+[CC 2018 图文参考](http://www.yishimei.cn/network/736.html)   
+
+# 安装错误
+
 * 如果安装失败 请尝试删除一下文件
 	* `C:\ProgramData\Adobe\SLStore`
 	* `C:\Program Files (x86)\Common Files\Adobe\SLCache`
@@ -105,13 +158,10 @@ http://www.adobe.com
 	* [使用Creative Cloud Cleaner Tool来解决安装问题](https://helpx.adobe.com/creative-cloud/kb/cc-cleaner-tool-installation-problems.html)
 	* 请参考 [如何清理Adobe残留](http://www.wuji8.com/meta/484489916.html)  
 
-## 安装包提取
+# 安装包提取
 * [提取CreativeCloud下载软件地址](http://www.wuji8.com/meta/19841264.html)  
 * 参考 [muink Github](https://gist.github.com/muink/c31ef412164bc6961992)  
 
-## Xd 安装说明
-* [参考](http://www.ui.cn/detail/300549.html)  
-
-## Flash Player
+# Adobe Flash Player
 >- [关于 Adobe Flash Player](https://get.adobe.com/cn/flashplayer/about)  
->- [下载](https://www.flash.cn)  
+>- [下载 Adobe Flash Player](https://www.flash.cn)  
