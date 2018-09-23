@@ -66,9 +66,10 @@ http://www.adobe.com
 **方法2** *（此方法仅供CC版本使用）*
 > ![](/img/Adobe/crack_2_1.png)
 > 1.运行 [amtemu.v0.9.2.win-painter](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1ul7pe)
-> 2.单击“Install”
-> 3.选择文件“amtlib.dll”
-> 4.单击“Patch”，就好了！
+> 2.选择要补丁的程序
+> 3.单击“Install”
+> 4.选择文件“amtlib.dll”
+> 5.单击“Patch”，就好了！
 
 **方法3** *（此方法所有版本通用）*
 > 将对应的 [amtlib.dll](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack&parentPath=/App) 文件复制到安装目录中替换，就好了！
