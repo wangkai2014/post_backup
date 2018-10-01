@@ -74,9 +74,6 @@ http://www.adobe.com
 **方法3** *（此方法所有版本通用）*
 > 将对应的 [amtlib.dll](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack&parentPath=/App) 文件复制到安装目录中替换，就好了！
 
-## Xd 激活
-* [参考](http://www.ui.cn/detail/300549.html) 
-
 # 注册机激活
 
 **CC 2018**

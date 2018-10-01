@@ -17,11 +17,11 @@ Axure RP是美国Axure Software Solution公司旗舰产品，是一个专业的�
 
 [官方网站](https://www.axure.com)
 
-## 下载
+# 下载
 > [官方下载](https://axure.cachefly.net/AxureRP-Setup.exe)
 > [网盘下载](https://pan.baidu.com/s/1Hm-I4d9OMJRK3L_IfYAnNA)
 
-## 安装说明
+# 安装说明
 http://macyoyo.cn/html/1832.html
 * 8.1
 	* Licensee:`Koshy`
