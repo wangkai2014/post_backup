@@ -2,7 +2,7 @@
 layout:     post
 title:      Rhinoceras [犀牛]
 subtitle:   超级强大而轻量级的NURBS建模软件
-date:       2018-09-08
+date:       2018-10-12
 author:     Brywmzl
 header-img: img/Rhino/bg.jpg
 catalog: true
@@ -21,10 +21,22 @@ Rhino（全称：Rhinoceros，又名：Rhino3D）是一款轻量级但非常强�
 * [Rhino Official Gallery](https://www.rhino3d.com/gallery)  
 
 # 下载
-> [官方下载](https://www.rhino3d.com/cn/download/rhino/5/latest#)
+> [官方下载](https://www.rhino3d.com/cn/download/rhino/6/latest#)
 > [网盘下载](https://pan.baidu.com/s/1eSxXRbG)
 
-# 安装说明
+**安装包**
+
+|Windows 64-bit|
+|:-:|
+|[rh50_zh-cn_5.14.00522.08390.exe](http://files.mcneel.com/dujour/exe/20170522/rh50_zh-cn_5.14.00522.08390.exe)|
+|[rhino_zh-cn_6.9.18271.20591.exe](http://files.mcneel.com/dujour/exe/20180928/rhino_zh-cn_6.9.18271.20591.exe)|
+|[rhino_zh-cn_6.11.18275.16081.exe](http://files.mcneel.com/dujour/exe/20181002/rhino_zh-cn_6.11.18275.16081.exe)|
+
+# 6.X安装说明
+
+* 安装目录下替换“RhinoCore.dll”文件
+
+# 5.X安装说明
 
 * 断网后打开 `C:\Windows\System32\drivers\etc\hosts`
 * 添加hosts: `127.0.0.1 www2.rhino3d.com` (防止许可被吊销)

@@ -1,11 +1,11 @@
 ﻿---
 layout: post
-title: 页面调整各种乱
-date: 2018-10-01 23:59:59
+title: Hexo搭建与改造
+date: 2018-10-09
 updated:
 comments: false
 tags: 
-categories: [置顶]
+categories: 
 permalink: 
 password: 
 ---

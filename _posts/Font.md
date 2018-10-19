@@ -13,10 +13,8 @@ categories:
 <!--more-->
 # 下载
 > [SanFranciscoFont](https://github.com/AppleDesignResources/SanFranciscoFont)
+> [SF Compact、SF Pro、SF UI](https://github.com/geraldchan/fonts)
 > [网盘下载](https://pan.baidu.com/s/1a3OS6TxCo47vg6m9E-VfBA)
-
-# 工具
-[在windows安装otf字体](https://www.zcool.com.cn/article/ZNDA0NTk2.html)
 
 # 字体网站
 > 中文字体
@@ -32,3 +30,5 @@ categories:
 * [fonts 500](http://www.fonts500.com)
 * [high fonts](http://www.highfonts.com)
 * [Acid Fonts](https://www.acidfonts.com)
+
+> [fontforge 字体设计](http://fontforge.github.io/en-US/)

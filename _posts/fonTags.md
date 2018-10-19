@@ -6,7 +6,7 @@ date:       2018-04-04
 author:     Brywmzl
 header-img: img/fonTags/bg.jpg
 catalog: true
-tags: [Ps插件,Ai插件,Id插件]
+tags: [Ps插件,Ai插件,Id插件,字体]
 ---
 超好用的Ps Ai Id字体管理插件
 

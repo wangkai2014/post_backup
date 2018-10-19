@@ -22,3 +22,6 @@ Font Creator 是用来制作字体(TTF)的程序，除可自行制作外也能�
 
 # 安装说明
 ![](/img/FontCreator/1.jpg)
+
+# 使用说明
+[在windows安装otf字体](https://www.zcool.com.cn/article/ZNDA0NTk2.html)

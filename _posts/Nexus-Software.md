@@ -6,7 +6,7 @@ date:       2018-01-04
 author:     Brywmzl
 header-img: img/Nexus/bg.jpg
 catalog: true
-tags: [Nexus,图片查看器]
+tags: [图片查看器,字体]
 categories: [系统工具]
 ---
 Nexus 它包含了多个优秀软件
