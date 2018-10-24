@@ -16,6 +16,6 @@ Egg-Object 2是用于创建鸡蛋对象插件
 
 [官方网站](http://eggtion.net)  
 
-## 下载
+# 下载
 > [官方主页](http://eggtion.net/playground/cinema4d/egg-object-2)
 > [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/eggtion/EggObject&parentPath=/App)

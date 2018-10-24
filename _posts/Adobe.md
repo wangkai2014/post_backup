@@ -13,7 +13,8 @@ http://www.adobe.com
 
 <!--more-->
 
-[官方网站](http://www.adobe.com/)  
+[官方网站](http://www.adobe.com/)
+[appnee]https://appnee.com/tag/adobe/)
 [FC Portable](https://www.fcportables.com/)  
 
 # 下载

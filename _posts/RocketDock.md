@@ -1,14 +1,14 @@
 ﻿---
 layout:     post
 title:      RocketDock
-subtitle:   http://rocketdock.com/
+subtitle:   RocketDock是一款模仿苹果Dock栏的Windows桌面工具
 date:       2017-11-13
 author:     Brywmzl
 header-img: img/post-bg-debug.png
-tags:
+tags: 
 categories: [系统工具]
 ---
-http://rocketdock.com/
+RocketDock是一款模仿苹果Dock栏的Windows桌面工具
 
 <!--more-->
 

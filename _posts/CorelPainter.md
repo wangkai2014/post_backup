@@ -15,7 +15,7 @@ categories: [图像处理]
 
 [官方网站](http://www.painterartist.com)  
 
-## 下载  
+# 下载  
 > [Painter 官方下载](https://www.painterartist.com/en/free-trials/)
-> [CorelPainter2019.exe 不要直接点击](https://www.corel.com/akdlm/6763/downloads/free/trials/Painter/2019/CorelPainter2019.exe)
-> [网盘下载](https://pan.baidu.com/s/18-rPMtX738I8rWDB-Fiifw#list/path=/App/Corel/Painter&parentPath=/App)
+> [CorelPainter2019.exe](https://www.corel.com/akdlm/6763/downloads/free/trials/Painter/2019/CorelPainter2019.exe) (不要直接点击）
+> [网盘下载](https://pan.baidu.com/s/1FWgD3Ig5BSVV9QoXG6EBdQ#list/path=/App/Corel/Painter&parentPath=/App)

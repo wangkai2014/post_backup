@@ -2,7 +2,7 @@
 layout: post
 title:      CINEMA 4D
 subtitle:   http://www.maxon.net/
-date:       2018-10-12
+date:       2018-10-24
 author:     Brywmzl
 header-img: img/C4D/csm_R19-Packs-To-The-Right_long_09a07ff184.jpg
 catalog: true
@@ -16,7 +16,7 @@ http://www.maxon.net
 ![](/img/C4D/csm_Packs-Middle-Longer_1b00e822bf.jpg)
 
 [官方网站](http://www.maxon.net/)
-[CINEMA 4D RELEASE 20 COMPLETE FEATURE LIST](https://www.maxon.net/en/products/new-in-release-20/r20-complete-feature-list//)
+[CINEMA 4D R20 完整功能列表](https://www.maxon.net/en/products/new-in-release-20/r20-complete-feature-list/)
 [appnee](https://appnee.com/tag/cinema-4d/)  
 [常用快捷键](http://c4d.cn/3d-12145-1-1.html)  
 

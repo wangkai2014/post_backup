@@ -47,7 +47,7 @@ ShadowSocks
 * [SSR 功能详细介绍&使用教程](https://lolico.moe/tutorial/shadowsocksr.html)
 * [shadowsocksr-backup](https://github.com/shadowsocksr-backup)
 	* [Subscribe 服务器订阅接口文档](https://github.com/shadowsocksr-backup/shadowsocks-rss/wiki/Subscribe-服务器订阅接口文档)
-	* [网盘下载 Node Editor.7z](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1w10uj)
+	* [网盘下载 Node Editor.7z](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i2641ad)
 
 ![](/img/TheWorld/Subscribe.jpg)
 
