@@ -12,7 +12,7 @@ tags:
 
 <!--more-->
 
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/json_flow/0.png)  
+![](/img/json_flow/0.png)  
 
 ## 下载
 >- 暂不提供下载
