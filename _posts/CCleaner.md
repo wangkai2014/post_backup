@@ -16,10 +16,11 @@ categories: [系统工具]
 ![](http://s1.pir.fm/cc/page2/cc5-screen1.png)
 
 [官方网站](http://www.piriform.com)
-## 下载
+
+# 下载
 [Download CCleaner Professional](http://www.piriform.com/ccleaner/download/professional)
 
-## 安装说明 
+# 安装说明 
 * 安装原版程序（[Download CCleaner Professional](http://www.piriform.com/ccleaner/download/professional)）
 * 断网
 * 运行CCleaner
@@ -31,7 +32,7 @@ categories: [系统工具]
 127.0.0.1 license.piriform.com
 ```
 
-## 排除
+# 排除
 * 广告终结者和Chrome缓存冲突（路径不得直接使用变量）  
 	* `%UserName%\AppData\Local\Google\Chrome\User Data\Default\File System\*.*`
 

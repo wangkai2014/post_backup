@@ -17,6 +17,6 @@ MagicSolo 是Cinema 4D的独显插件
 
 如果有装HB脚本可以用 HB_Solo ，就不需要安装 MagicSolo 了
 
-## 下载
->- [官方主页](https://nitro4d.com/product/magic-solo/)
->- [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/MagicSolo&parentPath=/App)
+# 下载
+> [官方主页](https://nitro4d.com/product/magic-solo/)
+> [网盘下载](https://pan.baidu.com/s/1skEWB4D#list/path=/App/MAXON/_Plug-ins/MagicSolo&parentPath=/App)

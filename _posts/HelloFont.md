@@ -15,7 +15,7 @@ tags: [字体]
 [官方网站](http://www.hellofont.cn)
 
 # 下载
->- [官方下载](http://www.hellofont.cn/download)
+> [官方下载](http://www.hellofont.cn/download)
 
 
 ![](/img/HelloFont/0.png)  

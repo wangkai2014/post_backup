@@ -17,7 +17,6 @@ https://pan.baidu.com
 > [Speedpan（推荐）](http://speedpan.com) 
 > [proxyee-down](https://github.com/monkeyWie/proxyee-down)  
 > [Pan Download](http://pandownload.com)  
-> [网盘下载](https://pan.baidu.com/s/1pLihoFL)  
 
 # Tampermonkey
 > [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)  

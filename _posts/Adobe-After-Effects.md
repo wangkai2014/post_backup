@@ -1,7 +1,7 @@
 ﻿---
 layout:     post
 title:      Adobe After Effects
-date:       2018-09-01
+date:       2018-10-27
 author:     Brywmzl
 tags: [Adobe,After Effects,Ae]
 categories: [视频编辑]
@@ -41,37 +41,51 @@ Adobe After Effects 是Adobe公司推出的一款图形视频处理软件
 > [官方网站](http://www.videocopilot.net/blog/2016/10/new-workflow-plug-in-fx-console-is-now-available/)  
 > [WINDOWS DOWNLOAD](http://videocopilot.net/dl/saxT2sTajE)  
 > [MAC DOWNLOAD](http://videocopilot.net/dl/saxT2sTajf)  
-> [网盘下载](http://pan.baidu.com/s/1o8Qg058)   
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/Video Copilot/FXConsole&parentPath=/App)   
 
-## Knoll Light Factory 3.0 [Ae灯光插件]
-![](http://imglf1.ph.126.net/bCu_Ol7-SPeKHa6mVGqdgw==/1847320272252658921.png)  
+## Knoll Light Factory 3.0 [灯光工厂]
+![](/img/Adobe/AE/Knoll_Light_Factory/0.png)  
 特别感谢[Yanu](http://www.ccav1.com/)安装包制作  
 序列号注销后生效  
-> [网盘下载](http://pan.baidu.com/s/1ntsXdVF)  
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/Red Giant Knoll Light Factory&parentPath=/App)  
 
-## TrapcodeSuite[Ae插件]
+## TrapcodeSuite[红巨星]
 ![](/img/Adobe/Trapcode_Suite_Installer2.jpg)
 > [appnee](https://appnee.com/red-giant-complete-suite-universal-serial-numbers-collection/)
 > [官方网站](http://www.redgiant.com/products/trapcode-suite/)
-> [网盘下载](http://pan.baidu.com/s/1i5iXuoX)  
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/TrapcodeSuite&parentPath=/App)  
 > TCSuite_V14.0 SERIAL CODE : `TCBK2245868172939255`  
 
-## GenArts Sapphire [Ae插件]
-![](http://imglf0.ph.126.net/iS5Iwo0mrvZCaiaD1iv_Zw==/6630877550187109557.png)  
-> [GenArts Sapphire v8.0.1 网盘下载](http://pan.baidu.com/s/1pJNtqu3)  
-> [GenArts Sapphire v8.0.0](http://www.redgiant.com/products/trapcode-suite/)  
+## GenArts Sapphire [蓝宝石]
+![](/img/Adobe/AE/GAS.png)
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/蓝宝石插件&parentPath=/App)
 
-## REFlex [Ae变脸插件]
-> [网盘下载](http://pan.baidu.com/s/1c2cvV1m)  
+## REFlex [变脸插件]
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/Revisionfx REFlex&parentPath=/App)
 >- Name : `Team AMPED`  
 >- Code : `sXBIsG2YihoWHltG`  
 
 ## Element 3D [Ae三维插件]
 ![](http://imglf2.ph.126.net/TS-gLDxL9msKHi_Luwh_dg==/6631270075838355293.png)  
-> [网盘下载](http://pan.baidu.com/s/1mgtKsY0)  
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/Video Copilot/Element 3D&parentPath=/App)  
 * Windows 安装方法：  
 	* 1.运行 Element 3D 安装程序  
 	* 2.复制Crack文件夹内的 Element.aex 文件到AE插件目录 X:\Program Files (x86)\Adobe\Adobe After Effects CSX\Support Files\Plug-ins\VideoCopilot并替换原有文件  
 	* 3.第一次使用，单击“Install License File”，找到Crack文件夹内的ElementLicense.license文件 
 
 # 脚本
+
+# 问题
+
+## 开启时已停止工作
+
+![](/img/Adobe/AE/0.png)
+![](/img/Adobe/AE/1.png)
+* AE、PR、ME 不知道从2018的哪个版本开始就有了这个问题
+* 解决办法：
+	* 控制面板-NVIDIA控制面板-管理3D-程序设置
+	* 1.选择要自定义的程序：选择AE
+	* 2.为此程序选择首选图形处理器：集成图形
+	* 应用！
+
+[参考](https://baijiahao.baidu.com/s?id=1607238696071752807)

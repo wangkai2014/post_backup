@@ -17,12 +17,12 @@ Houdini Foundations适用于艺术家入门Houdini及其基于节点的程序工
 
 [官方主页](https://www.sidefx.com)  
 
-## 下载
->- [官方下载](https://www.sidefx.com/download/)
+# 下载
+> [官方下载](https://www.sidefx.com/download/)
 
-## 安装说明
->- [安装说明](https://www.sidefx.com/tutorials/houdini-download-and-install-windows/)
+# 安装说明
+> [安装说明](https://www.sidefx.com/tutorials/houdini-download-and-install-windows/)
 
-## 学习
->- [官方学习页面](https://www.sidefx.com/learn)
->- [官方PDF帮助文档](https://www.sidefx.com/media/uploads/tutorial/foundations_gdc2018/houdini_foundations.pdf)
+# 学习
+> [官方学习页面](https://www.sidefx.com/learn)
+> [官方PDF帮助文档](https://www.sidefx.com/media/uploads/tutorial/foundations_gdc2018/houdini_foundations.pdf)

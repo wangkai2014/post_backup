@@ -15,6 +15,6 @@ MediaCoder 是一款影音格式转换软件
 
 [官方网站](http://www.mediacoderhq.com)  
 
-## 下载
->- [官方下载](http://www.mediacoderhq.com/download.htm)
->- [网盘下载](https://pan.baidu.com/s/1vmPIAYnb6ySEjTy-9oIwnA)
+# 下载
+> [官方下载](http://www.mediacoderhq.com/download.htm)
+> [网盘下载](https://pan.baidu.com/s/1vmPIAYnb6ySEjTy-9oIwnA)

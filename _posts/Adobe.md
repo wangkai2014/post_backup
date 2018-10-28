@@ -2,7 +2,7 @@
 layout:     post
 title:      Adobe 系列软件
 subtitle:   http://www.adobe.com
-date:       2018-09-11
+date:       2018-10-28
 author:     Brywmzl
 header-img: img/Adobe/bg.jpg
 catalog: true
@@ -13,19 +13,21 @@ http://www.adobe.com
 
 <!--more-->
 
+{% youtube 0uCJ0fmXkS8 %}
+
 [官方网站](http://www.adobe.com/)
-[appnee]https://appnee.com/tag/adobe/)
-[FC Portable](https://www.fcportables.com/)  
+[appnee](https://appnee.com/tag/adobe/)
+[FC Portable](https://www.fcportables.com/)
 
 # 下载
 
-> [补丁&注册机](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack&parentPath=/App)  
-> [网盘下载](https://pan.baidu.com/s/1dF30ekx)  
+> [补丁&注册机](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack&parentPath=/App)
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx)
 
-# 官方下载
+**官方下载**
 
-> [官方离线安装包](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html)  
-> [官方在线安装包以及 Creative Cloud](https://www.adobe.com/creativecloud/catalog/desktop.html)  
+> [官方离线安装包](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html)
+> [官方在线安装包以及 Creative Cloud](https://www.adobe.com/creativecloud/catalog/desktop.html)
 
 |Product|Windows|Mac OS
 |:-:|:-:|:-:
@@ -53,6 +55,79 @@ http://www.adobe.com
 |Touch App Plugins|[Win (32 bit)](http://prdl-download.adobe.com/Touch%20App%20Plugins/7204D106061140928580FD958699CADD/1509478425533/TouchApp_1_CCM_WWEFDJ.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Touch%20App%20Plugins/7204D106061140928580FD958699CADD/1509478438249/TouchApp_1_CCM_WWEFDJ.dmg)
 |SpeedGrade CC|[Win (64 bit)](http://prdl-download.adobe.com/SpeedGrade/1CC0FA5AC5BB48478EB666B24D9A609F/1509443936439/SpeedGrade_9_LS20.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/SpeedGrade/1CC0FA5AC5BB48478EB666B24D9A609F/1509445098629/SpeedGrade_9_LS20.dmg)
 |Scout|[Win (64 bit)](http://prdl-download.adobe.com/Adobe%20Scout/00B594044C0F409D82F41E1E719AF93B/1510396350714/Scout_1_1_3_LREFJC.msi)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Adobe%20Scout/00B594044C0F409D82F41E1E719AF93B/1510395863244/Scout_1_1_3_LREFJC.dmg)
+
+**vposy**
+
+> [CC2018大师版8.3Final 9月2日更新 百度云下载](https://pan.baidu.com/s/1dio1Z4)（提取密码:w7i4）[@vposy](https://weibo.com/vposy)
+> [原版SP版 百度云下载](https://pan.baidu.com/s/1F1iCpjajAz-Ez5QsJZP5zQ)（提取密码:ewyu）[@vposy](https://weibo.com/vposy)
+
+# CC 2019补丁激活
+
+**MPT34M**
+
+> [MPT34M](http://www.mpt34m.net/)
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack/CC2019/Adobe CC 2019 MPT&parentPath=/App)
+
+![](/img/Adobe/crack_4_1.png)
+
+|PatchFile|
+|:-:|
+|[Adobe.After.Effects.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/9ttc2SB7/file.html)|
+|[Adobe.Character.Animator.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/z5DTkJ8D/file.html)|
+|[Adobe.Dreamweaver.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/V0cWBBHs/file.html)|
+|[Adobe.Illustrator.CC.2019.[x64].Patch-MPT.zip](https://www72.zippyshare.com/v/woSgEkEW/file.html)|
+|[Adobe.Lightroom.Classic.CC.8.0.[x64].Patch-MPT.zip](https://www40.zippyshare.com/v/OhZVTT7M/file.html)|
+|[Adobe.Media.Encoder.CC.2019.[x64].Patch-MPT.zip](https://www54.zippyshare.com/v/F69080uX/file.html)|
+|[Adobe.Photoshop.CC.2019.Patch-MPT.zip](https://www3.zippyshare.com/v/q7WPItwX/file.html)|
+|[Adobe.Premiere.Pro.CC.2019.[x64].Patch-MPT.zip](https://www120.zippyshare.com/v/4o203gaS/file.html)|
+
+> 1.打开对应的补丁
+> 2.点击右边的怪物 {% emoji space_invader %}
+> 3.右键左下角框框 "Copy to clipboard" 
+> 4.随便找个地方粘贴看看是 {% emoji hear_no_evil %} "File patched! OK" 还是  {% emoji see_no_evil %} "Nothing patched! ERROR" ~
+
+---
+
+**Zer0Cod3**
+
+> [Zer0Cod3](https://zer0cod3.weebly.com)
+> [Zer0Cod3_1337](https://zer0cod3.weebly.com/1337.html)
+> [CCMaker](https://zer0cod3.weebly.com/offline-adobe-installer.html)
+> [CCXProcess Emulator](https://zer0cod3.weebly.com/ccxprocess-emu.html)
+> [Win_1337_Apply_Patch_v1.5_By_DFoX.rar](https://www27.zippyshare.com/v/vaBiOQ48/file.html) By DeltaFoX
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=%2FApp%2FAdobe%2F_Crack%2FCC2019%2FZer0Cod3&parentPath=%2FApp)
+
+![](/img/Adobe/crack_3_1.png)
+
+|Product|1337 File|
+|:-:|:-:|
+|[PreludeCC20198.0.1337](https://www71.zippyshare.com/v/RxiekjbC/file.html)|registration.dll|
+|[PremiereProCC201913.0.0.1337](https://www57.zippyshare.com/v/koW1dhqK/file.html)|registration.dll|
+|[PhotoshopCC201920.0.0.1337](https://www57.zippyshare.com/v/OmTe3OBr/file.html)|photoshop.exe|
+|[IndesignCC201914.0.0.1337](https://www57.zippyshare.com/v/zyIr3uhb/file.html)|public.dll|
+|[InCopyCC201914.0.0.1337](https://www76.zippyshare.com/v/r800zgxx/file.html)|public.dll|
+|[IllustratorCC201923.0.0.1337](https://www57.zippyshare.com/v/AiTgbL4b/file.html)|illustrator.exe|
+|​[BridgeCC20199.0.0.1337](https://www14.zippyshare.com/v/mdXtK2de/file.html)|bridge.exe|
+|[AftereffectsCC201916.0.0.1337](https://www63.zippyshare.com/v/PNAly4Yt/file.html)|afterfxlib.dll|
+|[MediaEncoderCC201913.0.0.1337](https://www23.zippyshare.com/v/KLfK79nI/file.html)|adobe media encoder.exe|
+|[DreamweaverCC201919.0.0.1337](https://www74.zippyshare.com/v/HyKTqjqc/file.html)|dreamweaver.exe|
+|[LightroomClassicCC20198.0.0.1337](https://www117.zippyshare.com/v/GAABeema/file.html)|lightroom.exe|
+|[​AuditionCC201912.0.0.1337](https://www76.zippyshare.com/v/RDQXxc4O/file.html)|auui.dll|
+|[LightRoomCC20192.0.1.1337](https://www86.zippyshare.com/v/rP3wvjoZ/file.html)|lightroomcc.exe|
+|[AnimateCC201919.0.0.1337](https://www108.zippyshare.com/v/RSVlCYCe/file.html)|animate.exe​|
+|[CharacterAnimatorCC20192.0.1337](https://www102.zippyshare.com/v/5pS6B6Nn/file.html)|character animator.exe|
+
+> 1.打开 [Win_1337_Apply_Patch_v1.5_By_DFoX.rar](https://www27.zippyshare.com/v/vaBiOQ48/file.html)
+> 2.Exe/Dll File: 选择列表对应的 exe 或 dll 文件
+> 3.1337 File: 选择列表对应的 [1337文件](https://pan.baidu.com/s/1dF30ekx#list/path=%2FApp%2FAdobe%2F_Crack%2FCC2019%2FZer0Cod3%2F1337%20File&parentPath=%2FApp)（上面列表可以下载）
+> 4.然后 Patch~
+
+---
+
+**防火墙规则生成器**
+
+> [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.2.zip](https://www111.zippyshare.com/v/btrnxXLG/file.html)
+> [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.3.zip](https://www27.zippyshare.com/v/9vUU4ahA/file.html)
 
 # 补丁激活
 
@@ -135,7 +210,7 @@ http://www.adobe.com
 127.0.0.1 activate.adobe.com
  ```
 
-5.完成，尽情享受吧！（能在线升级）  
+5.完成，尽情享受吧！（能在线升级）
 
 ---
 
@@ -162,5 +237,5 @@ http://www.adobe.com
 * 参考 [muink Github](https://gist.github.com/muink/c31ef412164bc6961992)  
 
 # Adobe Flash Player
->- [关于 Adobe Flash Player](https://get.adobe.com/cn/flashplayer/about)  
->- [下载 Adobe Flash Player](https://www.flash.cn)  
+> [关于 Adobe Flash Player](https://get.adobe.com/cn/flashplayer/about)  
+> [下载 Adobe Flash Player](https://www.flash.cn)  
