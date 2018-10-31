@@ -50,7 +50,8 @@ Adobe After Effects 是Adobe公司推出的一款图形视频处理软件
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/Red Giant Knoll Light Factory&parentPath=/App)  
 
 ## TrapcodeSuite[红巨星]
-![](/img/Adobe/Trapcode_Suite_Installer2.jpg)
+![](/img/Adobe/AE/Trapcode_Suite_Installer2.jpg)
+![](/img/Adobe/AE/2.png)
 > [appnee](https://appnee.com/red-giant-complete-suite-universal-serial-numbers-collection/)
 > [官方网站](http://www.redgiant.com/products/trapcode-suite/)
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/TrapcodeSuite&parentPath=/App)  

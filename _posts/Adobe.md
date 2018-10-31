@@ -18,14 +18,18 @@ http://www.adobe.com
 [官方网站](http://www.adobe.com/)
 [appnee](https://appnee.com/tag/adobe/)
 [FC Portable](https://www.fcportables.com/)
+[CracksNow](https://cracksnow.com/category/windows/)
+[1337x](https://1337x.to/popular-apps)
+[Adobe CC 2019 全家桶新功能](https://www.uisdc.com/adobe-cc-2019-new-function)
 
 # 下载
 
 > [补丁&注册机](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack&parentPath=/App)
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx)
 
-**官方下载**
+**Creative Cloud**
 
+> [Creative Cloud](https://creative.adobe.com/products/download/creative-cloud)
 > [官方离线安装包](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html)
 > [官方在线安装包以及 Creative Cloud](https://www.adobe.com/creativecloud/catalog/desktop.html)
 
@@ -99,7 +103,7 @@ http://www.adobe.com
 
 ![](/img/Adobe/crack_3_1.png)
 
-|Product|1337 File|
+|Product|PatchFile|
 |:-:|:-:|
 |[PreludeCC20198.0.1337](https://www71.zippyshare.com/v/RxiekjbC/file.html)|registration.dll|
 |[PremiereProCC201913.0.0.1337](https://www57.zippyshare.com/v/koW1dhqK/file.html)|registration.dll|
