@@ -2,7 +2,7 @@
 layout:     post
 title:      Adobe 系列软件
 subtitle:   http://www.adobe.com
-date:       2018-10-28
+date:       2018-11-04
 author:     Brywmzl
 header-img: img/Adobe/bg.jpg
 catalog: true
@@ -16,11 +16,6 @@ http://www.adobe.com
 {% youtube 0uCJ0fmXkS8 %}
 
 [官方网站](http://www.adobe.com/)
-[appnee](https://appnee.com/tag/adobe/)
-[FC Portable](https://www.fcportables.com/)
-[CracksNow](https://cracksnow.com/category/windows/)
-[1337x](https://1337x.to/popular-apps)
-[Adobe CC 2019 全家桶新功能](https://www.uisdc.com/adobe-cc-2019-new-function)
 
 # 下载
 
@@ -65,43 +60,34 @@ http://www.adobe.com
 > [CC2018大师版8.3Final 9月2日更新 百度云下载](https://pan.baidu.com/s/1dio1Z4)（提取密码:w7i4）[@vposy](https://weibo.com/vposy)
 > [原版SP版 百度云下载](https://pan.baidu.com/s/1F1iCpjajAz-Ez5QsJZP5zQ)（提取密码:ewyu）[@vposy](https://weibo.com/vposy)
 
-# CC 2019补丁激活
-
-**MPT34M**
-
-> [MPT34M](http://www.mpt34m.net/)
-> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack/CC2019/Adobe CC 2019 MPT&parentPath=/App)
-
-![](/img/Adobe/crack_4_1.png)
-
-|PatchFile|
-|:-:|
-|[Adobe.After.Effects.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/9ttc2SB7/file.html)|
-|[Adobe.Character.Animator.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/z5DTkJ8D/file.html)|
-|[Adobe.Dreamweaver.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/V0cWBBHs/file.html)|
-|[Adobe.Illustrator.CC.2019.[x64].Patch-MPT.zip](https://www72.zippyshare.com/v/woSgEkEW/file.html)|
-|[Adobe.Lightroom.Classic.CC.8.0.[x64].Patch-MPT.zip](https://www40.zippyshare.com/v/OhZVTT7M/file.html)|
-|[Adobe.Media.Encoder.CC.2019.[x64].Patch-MPT.zip](https://www54.zippyshare.com/v/F69080uX/file.html)|
-|[Adobe.Photoshop.CC.2019.Patch-MPT.zip](https://www3.zippyshare.com/v/q7WPItwX/file.html)|
-|[Adobe.Premiere.Pro.CC.2019.[x64].Patch-MPT.zip](https://www120.zippyshare.com/v/4o203gaS/file.html)|
-
-> 1.打开对应的补丁
-> 2.点击右边的怪物 {% emoji space_invader %}
-> 3.右键左下角框框 "Copy to clipboard" 
-> 4.随便找个地方粘贴看看是 {% emoji hear_no_evil %} "File patched! OK" 还是  {% emoji see_no_evil %} "Nothing patched! ERROR" ~
-
----
+# 补丁激活（CC 2019）
 
 **Zer0Cod3**
 
 > [Zer0Cod3](https://zer0cod3.weebly.com)
-> [Zer0Cod3_1337](https://zer0cod3.weebly.com/1337.html)
+> [Zer0Cod3_tools](https://zer0cod3.weebly.com/tools.html)
 > [CCMaker](https://zer0cod3.weebly.com/offline-adobe-installer.html)
 > [CCXProcess Emulator](https://zer0cod3.weebly.com/ccxprocess-emu.html)
-> [Win_1337_Apply_Patch_v1.5_By_DFoX.rar](https://www27.zippyshare.com/v/vaBiOQ48/file.html) By DeltaFoX
+
+**Zer0Cod3 all in one Adobe CC 2019 patcher**
+
+{% youtube _aP9jwQHWJA %}
+
+![](/img/Adobe/crack_3_2.png)
+
+> [Zer0Cod3 all in one Adobe CC 2019 patcher](https://zer0cod3.weebly.com/adobe-cc-2019-all-in-one-patcher/zer0cod3-all-in-one-adobe-cc-2019-patcher#comments)
+> [Adobe CC 2019 Zer0Cod3 Patcher.zip](https://www112.zippyshare.com/v/LV3nOcys/file.html)
+> [Zer0Cod3 End October Cracks 30-10-2018.zip](https://www6.zippyshare.com/v/3jRFC4r7/file.html)
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=%2FApp%2FAdobe%2F_Crack%2FCC2019%2FZer0Cod3&parentPath=%2FApp)
 
+---
+
+**1337**
+
 ![](/img/Adobe/crack_3_1.png)
+
+> [Win_1337_Apply_Patch - Github](https://github.com/Deltafox79/Win_1337_Apply_Patch)
+> [Win_1337_Apply_Patch_v1.5_By_DFoX.rar](https://www27.zippyshare.com/v/vaBiOQ48/file.html) By DeltaFoX
 
 |Product|PatchFile|
 |:-:|:-:|
@@ -130,8 +116,35 @@ http://www.adobe.com
 
 **防火墙规则生成器**
 
-> [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.2.zip](https://www111.zippyshare.com/v/btrnxXLG/file.html)
+> [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.4.zip](https://www67.zippyshare.com/v/q2fNtZrD/file.html)
 > [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.3.zip](https://www27.zippyshare.com/v/9vUU4ahA/file.html)
+> [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.2.zip](https://www111.zippyshare.com/v/btrnxXLG/file.html)
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Tools/Firewall rules generator&parentPath=/App)
+
+---
+
+**MPT34M**
+
+![](/img/Adobe/crack_4_1.png)
+
+> [MPT34M](http://www.mpt34m.net/)
+> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack/CC2019/MPT34M&parentPath=/App)
+
+|PatchFile|
+|:-:|
+|[Adobe.After.Effects.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/9ttc2SB7/file.html)|
+|[Adobe.Character.Animator.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/z5DTkJ8D/file.html)|
+|[Adobe.Dreamweaver.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/V0cWBBHs/file.html)|
+|[Adobe.Illustrator.CC.2019.[x64].Patch-MPT.zip](https://www72.zippyshare.com/v/woSgEkEW/file.html)|
+|[Adobe.Lightroom.Classic.CC.8.0.[x64].Patch-MPT.zip](https://www40.zippyshare.com/v/OhZVTT7M/file.html)|
+|[Adobe.Media.Encoder.CC.2019.[x64].Patch-MPT.zip](https://www54.zippyshare.com/v/F69080uX/file.html)|
+|[Adobe.Photoshop.CC.2019.Patch-MPT.zip](https://www3.zippyshare.com/v/q7WPItwX/file.html)|
+|[Adobe.Premiere.Pro.CC.2019.[x64].Patch-MPT.zip](https://www120.zippyshare.com/v/4o203gaS/file.html)|
+
+> 1.打开对应的补丁
+> 2.点击右边的怪物 {% emoji space_invader %}
+> 3.右键左下角框框 "Copy to clipboard" 
+> 4.随便找个地方粘贴看看是 {% emoji hear_no_evil %} "File patched! OK" 还是  {% emoji see_no_evil %} "Nothing patched! ERROR" ~
 
 # 补丁激活
 
@@ -241,5 +254,14 @@ http://www.adobe.com
 * 参考 [muink Github](https://gist.github.com/muink/c31ef412164bc6961992)  
 
 # Adobe Flash Player
+
 > [关于 Adobe Flash Player](https://get.adobe.com/cn/flashplayer/about)  
-> [下载 Adobe Flash Player](https://www.flash.cn)  
+> [下载 Adobe Flash Player](https://www.flash.cn)
+
+# 相关链接
+
+[appnee](https://appnee.com/tag/adobe/)
+[FC Portable](https://www.fcportables.com/)
+[CracksNow](https://cracksnow.com/category/windows/)
+[1337x](https://1337x.to/popular-apps)
+[Adobe CC 2019 全家桶新功能](https://www.uisdc.com/adobe-cc-2019-new-function)
