@@ -59,7 +59,9 @@ After downloading, run the installer. During installation, the new resources wil
 
 下载后，运行安装程序。在安装过程中，新资源将添加到KeyShot Resource文件夹中，并在KeyShot库的Materials选项卡中可见。新的Poliigon文件夹将添加到您的Materials文件夹中。
 
-# KeyShot8 安装说明
+# 安装说明
+
+## KeyShot8 安装说明
 
 And install instruction:
 
@@ -84,7 +86,7 @@ Add the following two lines:
 
 8. Done!
 
-# KeyShot7 安装说明
+## KeyShot7 安装说明
 * 1.安装 KeyShot，装完后关闭安装程序，不要运行 KeyShot
 * 2.复制补丁 `keyshot.exe` 到 KeyShot 安装目录，替换文件
 ![](/img/keyshot/0.jpg)

@@ -60,7 +60,9 @@ http://www.adobe.com
 > [CC2018大师版8.3Final 9月2日更新 百度云下载](https://pan.baidu.com/s/1dio1Z4)（提取密码:w7i4）[@vposy](https://weibo.com/vposy)
 > [原版SP版 百度云下载](https://pan.baidu.com/s/1F1iCpjajAz-Ez5QsJZP5zQ)（提取密码:ewyu）[@vposy](https://weibo.com/vposy)
 
-# 补丁激活（CC 2019）
+# 补丁激活
+
+## CC 2019 补丁激活
 
 **Zer0Cod3**
 
@@ -75,8 +77,7 @@ http://www.adobe.com
 
 *CC 2019 目前最为完善的补丁* {% emoji point_down %}
 
-![](/img/Adobe/crack_3_2.png)
-
+> ![](/img/Adobe/crack_3_2.png)
 > [Zer0Cod3 all in one Adobe CC 2019 patcher](https://zer0cod3.weebly.com/adobe-cc-2019-all-in-one-patcher/zer0cod3-all-in-one-adobe-cc-2019-patcher#comments)
 > [Adobe CC 2019 Zer0Cod3 Patcher.zip](https://www112.zippyshare.com/v/LV3nOcys/file.html)
 > [Zer0Cod3 End October Cracks 30-10-2018.zip](https://www6.zippyshare.com/v/3jRFC4r7/file.html)
@@ -86,8 +87,7 @@ http://www.adobe.com
 
 **1337_Apply_Patch**
 
-![](/img/Adobe/crack_3_1.png)
-
+> ![](/img/Adobe/crack_3_1.png)
 > [Win_1337_Apply_Patch - Github](https://github.com/Deltafox79/Win_1337_Apply_Patch)
 > [Win_1337_Apply_Patch_v1.5_By_DFoX.rar](https://www27.zippyshare.com/v/vaBiOQ48/file.html) By DeltaFoX
 
@@ -114,8 +114,6 @@ http://www.adobe.com
 > 3.1337 File: 选择列表对应的 [1337文件](https://pan.baidu.com/s/1dF30ekx#list/path=%2FApp%2FAdobe%2F_Crack%2FCC2019%2FZer0Cod3%2F1337%20File&parentPath=%2FApp)（上面列表可以下载）
 > 4.然后 Patch~
 
----
-
 **防火墙规则生成器**
 
 > [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.4.zip](https://www67.zippyshare.com/v/q2fNtZrD/file.html)
@@ -127,8 +125,7 @@ http://www.adobe.com
 
 **MPT34M**
 
-![](/img/Adobe/crack_4_1.png)
-
+> ![](/img/Adobe/crack_4_1.png)
 > [MPT34M](http://www.mpt34m.net/)
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack/CC2019/MPT34M&parentPath=/App)
 
@@ -148,7 +145,7 @@ http://www.adobe.com
 > 3.右键左下角框框 "Copy to clipboard" 
 > 4.随便找个地方粘贴看看是 {% emoji hear_no_evil %} "File patched! OK" 还是  {% emoji see_no_evil %} "Nothing patched! ERROR" ~
 
-# 补丁激活
+## CC 2018 以下补丁激活
 
 * 执行完安装步骤
 * 开始补丁（三选一）
@@ -167,42 +164,39 @@ http://www.adobe.com
 > 5.单击“Patch”，就好了！
 
 **方法3** *（此方法所有版本通用）*
-> 将对应的 [amtlib.dll](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack&parentPath=/App) 文件复制到安装目录中替换，就好了！
+> 复制对应的 [amtlib.dll](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack&parentPath=/App) 文件到安装目录中替换，就好了！
 
 # 注册机激活
 
-**CC 2018**
+## CC 2018 注册机激活
 
-1.下载并安装 [Adobe Creative Cloud应用程序](https://www.adobe.com/creativecloud/catalog/desktop.html)
+> 1.下载并安装 [Adobe Creative Cloud应用程序](https://www.adobe.com/creativecloud/catalog/desktop.html)
+> 2.如果你没有[Adobe ID](https://accounts.adobe.com/)创建一个，并安装您需要的所有应用程序，安装完不要运行！
+> 3.将 `C:\Program Files（x86)\Common Files\Adob​​e\OOBE` 文件夹重命名“PDApp”，或者把它删掉
+> 4.安装 [Adobe Application Manager 8.0](https://www.lanzous.com/i1uleef)
+> 5.断网
+> 6.以管理员身份运行 “disable_activation.cmd”（如果不以管理员身份运行，将不会修改任何内容）
+> 7.打开应用程序并使用 [xf-adobecc2015.exe](https://www.lanzous.com/i1ulgad) 激活。
 
-2.如果你没有[Adobe ID](https://accounts.adobe.com/)创建一个，并安装您需要的所有应用程序，安装完不要运行！
+> 单击“对软件进行许可”（不要点击 开始试用）
+> 单击“稍后连接”（当被要求ID /互联网连接）
+> 单击“连接到互联网时遇到问题”（这只有在你完成步骤3和4时才会出现）
+> 使用在 Keygen 中生成代码以生成响应。
 
-3.将 `C:\Program Files（x86)\Common Files\Adob​​e\OOBE` 文件夹重命名“PDApp”，或者把它删掉
-
-4.安装 [Adobe Application Manager 8.0](https://www.lanzous.com/i1uleef)
-
-5.断网
-
-6.以管理员身份运行 “disable_activation.cmd”（如果不以管理员身份运行，将不会修改任何内容）
-
-7.打开应用程序并使用 [xf-adobecc2015.exe](https://www.lanzous.com/i1ulgad) 激活。
-* 单击“对软件进行许可”（不要点击 开始试用）
-* 单击“稍后连接”（当被要求ID /互联网连接）
-* 单击“连接到互联网时遇到问题”（这只有在你完成步骤3和4时才会出现）
-* 使用在 Keygen 中生成代码以生成响应。
-
-<br>{% emoji warning %} 如果完成以上步骤没有显示应用程序自动打开，请不要担心，关闭应用程序并再次打开它，几秒钟后会提示您激活它。
+> {% emoji warning %} 如果完成以上步骤没有显示应用程序自动打开，请不要担心，关闭应用程序并再次打开它，几秒钟后会提示您激活它。
 
 ---
 
-1.断网
-* 删除以下host `%WinDir%\system32\drivers\etc\hosts`  
+## CC 2015 注册机激活
+
+> 1.断网，并删除以下host `%WinDir%\system32\drivers\etc\hosts`
+
 ```
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 lm.licenses.adobe.com
 ```
 
-2.打开 [xf-adobecc2015.exe](https://www.lanzous.com/i1ulgad) ，生成序列号（请勿关闭注册机）  
+> 2.打开 [xf-adobecc2015.exe](https://www.lanzous.com/i1ulgad) ，生成序列号（请勿关闭注册机）  
 * 打开安装程序  
 * 单击“安装” （我已经购买）  
 * 单击“登录”
@@ -210,7 +204,7 @@ http://www.adobe.com
 * 接受许可协议，输入序列号  
 * 单击“下一步”，出现错误提示“请连接到互联网，然后重试”后，点击"稍后连接”
 
-3.启动应用程序  
+> 3.启动应用程序  
 * 点击“接到互联网时遇到麻烦吗？”  
 * 点击“脱机激活”  
 * 复制安装界面中的请求码 “Requets”
@@ -218,8 +212,8 @@ http://www.adobe.com
 * 点击 生成 “Generate”
 * 放入激活码 “Activation” ，激活  
 
-4.完成后，阻止Adobe IP
-* 添加 host `%WinDir%\system32\drivers\etc\hosts`
+> 4.完成后，添加 host `%WinDir%\system32\drivers\etc\hosts`
+
 ```
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 lm.licenses.adobe.com
@@ -229,7 +223,7 @@ http://www.adobe.com
 127.0.0.1 activate.adobe.com
  ```
 
-5.完成，尽情享受吧！（能在线升级）
+> 5.完成，尽情享受吧！（能在线升级）{% emoji blush %}
 
 ---
 
@@ -252,8 +246,9 @@ http://www.adobe.com
 	* 请参考 [如何清理Adobe残留](http://www.wuji8.com/meta/484489916.html)  
 
 # 安装包提取
-* [提取CreativeCloud下载软件地址](http://www.wuji8.com/meta/19841264.html)  
-* 参考 [muink Github](https://gist.github.com/muink/c31ef412164bc6961992)  
+
+> [提取CreativeCloud下载软件地址](http://www.wuji8.com/meta/19841264.html)  
+> 参考 [muink Github](https://gist.github.com/muink/c31ef412164bc6961992)  
 
 # Adobe Flash Player
 
@@ -262,8 +257,8 @@ http://www.adobe.com
 
 # 相关链接
 
-[appnee](https://appnee.com/tag/adobe/)
-[FC Portable](https://www.fcportables.com/)
-[CracksNow](https://cracksnow.com/category/windows/)
-[1337x](https://1337x.to/popular-apps)
-[Adobe CC 2019 全家桶新功能](https://www.uisdc.com/adobe-cc-2019-new-function)
+> [appnee](https://appnee.com/tag/adobe/)
+> [FC Portable](https://www.fcportables.com/)
+> [CracksNow](https://cracksnow.com/category/windows/)
+> [1337x](https://1337x.to/popular-apps)
+> [Adobe CC 2019 全家桶新功能](https://www.uisdc.com/adobe-cc-2019-new-function)
