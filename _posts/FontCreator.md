@@ -17,7 +17,7 @@ Font Creator 是用来制作字体(TTF)的程序，除可自行制作外也能�
 > [FontCreatorSetup-x64.exe](https://www.high-logic.com/FontCreatorSetup-x64.exe)
 > [FontCreatorSetup.zip](https://www.high-logic.com/FontCreatorSetup.zip)
 > [FontCreatorSetup-x64.zip](https://www.high-logic.com/FontCreatorSetup-x64.zip)
-> [hlfc11_keygen.7z](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1zzylg)
+> [hlfc11_keygen.7z](https://www.lanzous.com/i1zzylg)
 > [网盘下载](https://pan.baidu.com/s/1ISbz-YnPuliYhuONL_a9wg)
 
 # 安装说明

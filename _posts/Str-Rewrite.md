@@ -15,7 +15,7 @@ Str Rewrite 是一款针对str文件重写的工具
 ![](/img/StrRewrite/post-5.png)  
 
 # 下载
-> [最新下载](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1165jc)
+> [最新下载](https://www.lanzous.com/i1165jc)
 > [历史版本](https://pan.lanzou.com/b174194)
 
 # 更新日志

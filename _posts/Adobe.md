@@ -2,7 +2,7 @@
 layout:     post
 title:      Adobe 系列软件
 subtitle:   http://www.adobe.com
-date:       2018-11-04
+date:       2018-11-08
 author:     Brywmzl
 header-img: img/Adobe/bg.jpg
 catalog: true
@@ -72,6 +72,8 @@ http://www.adobe.com
 **Zer0Cod3 all in one Adobe CC 2019 patcher**
 
 {% youtube _aP9jwQHWJA %}
+
+*CC 2019 目前最为完善的补丁* {% emoji point_down %}
 
 ![](/img/Adobe/crack_3_2.png)
 
@@ -153,12 +155,12 @@ http://www.adobe.com
 
 **方法1** *（此方法仅供2018使用）*
 > ![](/img/Adobe/crack_1_1.png)
-> 1.运行 [Adobe.CC2018.Anticloud](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1ul5he)
+> 1.运行 [Adobe.CC2018.Anticloud](https://www.lanzous.com/i1ul5he)
 > 2.单击“Install”，就好了！
 
 **方法2** *（此方法仅供CC版本使用）*
 > ![](/img/Adobe/crack_2_1.png)
-> 1.运行 [amtemu.v0.9.2.win-painter](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1ul7pe)
+> 1.运行 [amtemu.v0.9.2.win-painter](https://www.lanzous.com/i1ul7pe)
 > 2.选择要补丁的程序
 > 3.单击“Install”
 > 4.选择文件“amtlib.dll”
@@ -177,13 +179,13 @@ http://www.adobe.com
 
 3.将 `C:\Program Files（x86)\Common Files\Adob​​e\OOBE` 文件夹重命名“PDApp”，或者把它删掉
 
-4.安装 [Adobe Application Manager 8.0](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1uleef)
+4.安装 [Adobe Application Manager 8.0](https://www.lanzous.com/i1uleef)
 
 5.断网
 
 6.以管理员身份运行 “disable_activation.cmd”（如果不以管理员身份运行，将不会修改任何内容）
 
-7.打开应用程序并使用 [xf-adobecc2015.exe](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1ulgad) 激活。
+7.打开应用程序并使用 [xf-adobecc2015.exe](https://www.lanzous.com/i1ulgad) 激活。
 * 单击“对软件进行许可”（不要点击 开始试用）
 * 单击“稍后连接”（当被要求ID /互联网连接）
 * 单击“连接到互联网时遇到问题”（这只有在你完成步骤3和4时才会出现）
@@ -200,7 +202,7 @@ http://www.adobe.com
 127.0.0.1 lm.licenses.adobe.com
 ```
 
-2.打开 [xf-adobecc2015.exe](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1ulgad) ，生成序列号（请勿关闭注册机）  
+2.打开 [xf-adobecc2015.exe](https://www.lanzous.com/i1ulgad) ，生成序列号（请勿关闭注册机）  
 * 打开安装程序  
 * 单击“安装” （我已经购买）  
 * 单击“登录”

@@ -44,7 +44,7 @@ http://www.maxon.net
 
 # 注册机
 ![](/img/C4D/Keygen.jpg)
-> [注册机下载](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1sus8f)  
+> [注册机下载](https://www.lanzous.com/i1sus8f)  
 
 # R19+ 环境变量
 * [Cinema 4D R19中的新功能：用于通过环境变量预设，插件和脚本的自定义文件夹](https://www.youtube.com/watch?v=pyrEevPPtRM)
@@ -52,7 +52,8 @@ http://www.maxon.net
 	* `C4D_BROWSERLIBS` (lib4D presets)
 	* `C4D_PLUGINS_DIR` (plugins)
 	* `C4D_SCRIPTS_DIR` (scripts - R19+)  
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/C4D/1.jpg) 
+
+![](/img/C4D/1.jpg) 
 
 # 安装问题
 * 无法启动此程序，因为计算机丢失libmmd.dll.尝试重新安装该程序以解决此问题
@@ -62,7 +63,7 @@ http://www.maxon.net
 
 # 学习
 
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/C4D/0.jpg) 
+![](/img/C4D/0.jpg) 
 
 * MAKING IT LOOK GREAT 11 - 建模宝典
 	* [MAKING IT LOOK GREAT 11](http://motionworks.net/shop/making-it-look-great-11)  

@@ -38,7 +38,7 @@ magnet:?xt=urn:btih:241e412ac77d418212859919bb9d276ea8e7e279
 ```
 magnet:?xt=urn:btih:B7E7E7A35EEFF0BCA235B08152FD58B656A1D297
 ```
-> [Corel Products KeyGen 20180618](http://pan.ccav1.me/lanzou.php?type=down&url=https://www.lanzous.com/i1pfkja)
+> [Corel Products KeyGen 20180618](https://www.lanzous.com/i1pfkja)
 > [网盘下载](https://pan.baidu.com/s/1FWgD3Ig5BSVV9QoXG6EBdQ#list/path=%2FApp%2FCorel%2FCorelDRAW&parentPath=%2FApp)
 
 # 安装说明
