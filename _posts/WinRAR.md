@@ -55,4 +55,4 @@ da1e00cfb8fdd761b97907934ece3abf4970d9e8023dcac5607d07
 
 > [用资源工具 去广告](https://www.52pojie.cn/thread-656299-1-1.html)
 > [用X64dbg 去广告](https://www.52pojie.cn/thread-630556-1-1.html)
-> [网盘下载](https://pan.baidu.com/s/1SD3lYRDhfvKA9MdPB9mp7w#list/path=/App/WinRAR/_去广告补丁&parentPath=/App)
+> [网盘下载](https://pan.baidu.com/s/1SD3lYRDhfvKA9MdPB9mp7w#list/path=/App/WinRAR/_去广告弹窗+授权补丁&parentPath=/App)

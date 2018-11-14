@@ -2,7 +2,7 @@
 layout:     post
 title:      Adobe 系列软件
 subtitle:   http://www.adobe.com
-date:       2018-11-08
+date:       2018-11-13
 author:     Brywmzl
 header-img: img/Adobe/bg.jpg
 catalog: true
@@ -64,22 +64,23 @@ http://www.adobe.com
 
 ## CC 2019 补丁激活
 
-**Zer0Cod3**
+### Zer0Cod3
 
-> [Zer0Cod3](https://zer0cod3.weebly.com)
-> [Zer0Cod3_tools](https://zer0cod3.weebly.com/tools.html)
-> [CCMaker](https://zer0cod3.weebly.com/offline-adobe-installer.html)
-> [CCXProcess Emulator](https://zer0cod3.weebly.com/ccxprocess-emu.html)
+*2018-11-13（由于法律相关规定，Zer0Cod3的主页、Youtube的视频、Patcher下载地址都消失了）*
+
+
+> [~~Zer0Cod3~~](https://zer0cod3.weebly.com)
+> [~~How to install any cc 2019 application properly~~](https://zer0cod3.weebly.com/how-to-install.html)
 
 **Zer0Cod3 all in one Adobe CC 2019 patcher**
-
-{% youtube _aP9jwQHWJA %}
 
 *CC 2019 目前最为完善的补丁* {% emoji point_down %}
 
 > ![](/img/Adobe/crack_3_2.png)
-> [Zer0Cod3 all in one Adobe CC 2019 patcher](https://zer0cod3.weebly.com/adobe-cc-2019-all-in-one-patcher/zer0cod3-all-in-one-adobe-cc-2019-patcher#comments)
-> [Adobe CC 2019 Zer0Cod3 Patcher.zip](https://www112.zippyshare.com/v/LV3nOcys/file.html)
+> [~~Adobe CC 2019 Zer0Cod3 Patcher.zip~~](https://www112.zippyshare.com/v/LV3nOcys/file.html)
+
+> [~~Zer0Cod3 all in one Adobe CC 2019 patcher~~](https://zer0cod3.weebly.com/adobe-cc-2019-all-in-one-patcher/zer0cod3-all-in-one-adobe-cc-2019-patcher#comments)
+> [~~Zer0Cod3 Manual Cracks~~](https://zer0cod3.weebly.com/manual-cracks.html)
 > [Zer0Cod3 End October Cracks 30-10-2018.zip](https://www6.zippyshare.com/v/3jRFC4r7/file.html)
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=%2FApp%2FAdobe%2F_Crack%2FCC2019%2FZer0Cod3&parentPath=%2FApp)
 
@@ -88,8 +89,6 @@ http://www.adobe.com
 **1337_Apply_Patch**
 
 > ![](/img/Adobe/crack_3_1.png)
-> [Win_1337_Apply_Patch - Github](https://github.com/Deltafox79/Win_1337_Apply_Patch)
-> [Win_1337_Apply_Patch_v1.5_By_DFoX.rar](https://www27.zippyshare.com/v/vaBiOQ48/file.html) By DeltaFoX
 
 |Product|PatchFile|
 |:-:|:-:|
@@ -109,13 +108,14 @@ http://www.adobe.com
 |[AnimateCC201919.0.0.1337](https://www108.zippyshare.com/v/RSVlCYCe/file.html)|animate.exe​|
 |[CharacterAnimatorCC20192.0.1337](https://www102.zippyshare.com/v/5pS6B6Nn/file.html)|character animator.exe|
 
-> 1.打开 [Win_1337_Apply_Patch_v1.5_By_DFoX.rar](https://www27.zippyshare.com/v/vaBiOQ48/file.html)
-> 2.Exe/Dll File: 选择列表对应的 exe 或 dll 文件
-> 3.1337 File: 选择列表对应的 [1337文件](https://pan.baidu.com/s/1dF30ekx#list/path=%2FApp%2FAdobe%2F_Crack%2FCC2019%2FZer0Cod3%2F1337%20File&parentPath=%2FApp)（上面列表可以下载）
+> 1.打开 [Win_1337_Apply_Patch_By_DFoX](https://github.com/Deltafox79/Win_1337_Apply_Patch/releases)
+> 2.Exe/Dll File: 选择对应的 exe 或 dll 文件
+> 3.1337 File: 选择对应的 [1337文件](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack/CC2019/Zer0Cod3/_1337/1337 File&parentPath=/App)
 > 4.然后 Patch~
 
-**防火墙规则生成器**
+**防火墙规则生成器** *（Bl4ckCyb3rEnigm4{% raw %}@{% endraw %}yandex.com）*
 
+> [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.5.zip](https://www57.zippyshare.com/v/PKaUqoRf/file.html)
 > [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.4.zip](https://www67.zippyshare.com/v/q2fNtZrD/file.html)
 > [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.3.zip](https://www27.zippyshare.com/v/9vUU4ahA/file.html)
 > [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.2.zip](https://www111.zippyshare.com/v/btrnxXLG/file.html)
@@ -123,7 +123,7 @@ http://www.adobe.com
 
 ---
 
-**MPT34M**
+### MPT34M
 
 > ![](/img/Adobe/crack_4_1.png)
 > [MPT34M](http://www.mpt34m.net/)
@@ -235,12 +235,17 @@ http://www.adobe.com
 * 如果安装失败 请尝试删除一下文件
 	* `C:\ProgramData\Adobe\SLStore`
 	* `C:\Program Files (x86)\Common Files\Adobe\SLCache`
+
 * 尝试删除以下目录（记得备份）
 	* `C:\ProgramData\Adobe`
 	* `C:\Program Files\Adobe`
 	* `C:\Program Files (x86)\Adobe`
 	* `C:\Program Files\Common Files\Adobe`
 	* `C:\Program Files (x86)\Common Files\Adobe`
+	* `%appdata%\Adobe`
+	* `%localappdata%\Adobe`
+	* `%UserProfile%\AppData\LocalLow\Adobe`
+
 * 如果以上方案都无法解决，请尝试用 [AdobeCreativeCloudCleanerTool.exe](http://download.macromedia.com/SupportTools/Cleaner/win/AdobeCreativeCloudCleanerTool.exe) 进行清除
 	* [使用Creative Cloud Cleaner Tool来解决安装问题](https://helpx.adobe.com/creative-cloud/kb/cc-cleaner-tool-installation-problems.html)
 	* 请参考 [如何清理Adobe残留](http://www.wuji8.com/meta/484489916.html)  
@@ -258,6 +263,7 @@ http://www.adobe.com
 # 相关链接
 
 > [appnee](https://appnee.com/tag/adobe/)
+> [appnee-adobe zii](https://free.appnee.com/adobe-zii/)
 > [FC Portable](https://www.fcportables.com/)
 > [CracksNow](https://cracksnow.com/category/windows/)
 > [1337x](https://1337x.to/popular-apps)

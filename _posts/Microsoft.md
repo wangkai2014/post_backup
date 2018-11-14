@@ -22,9 +22,11 @@ https://www.microsoft.com
 > [暴风官网](http://www.baofengjihuo.com)
 > [KMSpico发布论坛](https://forums.mydigitallife.net)
 > [zd423](http://www.zdfans.com/?s=kms)
+
 > Ratiborus（俄罗斯大神）
-	* [Twitter](https://twitter.com/ratiborus58)
-	* [solidfiles网盘文件](https://www.solidfiles.com/folder/bd7165a0d4/)
+* [Twitter](https://twitter.com/ratiborus58)
+* [solidfiles网盘文件](https://www.solidfiles.com/folder/bd7165a0d4/)
+
 > [网盘下载](https://pan.baidu.com/s/1krBIbFR8qxVzZIL-6-qFZw)
 
 # Office
@@ -39,22 +41,27 @@ https://www.microsoft.com
 
 # VC运行库
 > [最新支持的 Visual C++ 下载](https://support.microsoft.com/zh-cn/kb/2977003) 
+
 > [睿派克技术论坛](https://www.repaik.com) 
-	* [百度网盘下载](https://eyun.baidu.com/s/3mifgC9y) 密码：`repaik`  
-	* [蓝奏网盘下载](https://pan.lanzou.com/b143614/)
-	* [360 网盘下载](https://yunpan.360.cn/surl_yQ4Ktj3YuZs) 提取码：`1f9c`  
-> [VCRedist1.2.7z](http://pan.baidu.com/s/1slWfneH)VCRedist1.2.7z 由 [Yanu](http://www.ccav1.com) 制作  
+* [百度网盘下载](https://eyun.baidu.com/s/3mifgC9y) 密码：`repaik`
+* [蓝奏网盘下载](https://pan.lanzou.com/b143614/)
+* [360 网盘下载](https://yunpan.360.cn/surl_yQ4Ktj3YuZs) 提取码：`1f9c`
+
+> [VCRedist1.2.7z](http://pan.baidu.com/s/1slWfneH)VCRedist1.2.7z 由 [Yanu](http://www.ccav1.com) 制作
+
 > [网盘下载](https://pan.baidu.com/s/1krBIbFR8qxVzZIL-6-qFZw#list/path=/App/Microsoft/MSVCVB&parentPath=/App) 
 
-# DirectX 
+# DirectX
 Microsoft DirectX 是这样一组技术：它们旨在使基于 Windows 的计算机成为运行和显示具有丰富多媒体元素（例如全色图形、视频、3D 动画和丰富音频）的应用程序的理想平台。 DirectX 包括安全和性能更新程序，以及许多涵盖所有技术的新功能。应用程序可以通过使用 DirectX API 来访问这些新功能。 
 > [睿派克技术论坛](https://www.repaik.com) 
-	* [微软DirectX9.0c最终用户运行库（32bit）](https://www.repaik.com/thread-55658-1-1.html) 
-	* [微软DirectX9.0c最终用户运行库（64bit）](https://www.repaik.com/thread-55660-1-1.html) 
-	* [百度网盘下载](https://pan.baidu.com/s/1jH76Ir0) 密码：`131k`  
+* [微软DirectX9.0c最终用户运行库（32bit）](https://www.repaik.com/thread-55658-1-1.html) 
+* [微软DirectX9.0c最终用户运行库（64bit）](https://www.repaik.com/thread-55660-1-1.html) 
+* [百度网盘下载](https://pan.baidu.com/s/1jH76Ir0) 密码：`131k`
+
 > [网盘下载](https://pan.baidu.com/s/1krBIbFR8qxVzZIL-6-qFZw#list/path=/App/Microsoft/MSVCVB&parentPath=/App) 
 
 # 网卡驱动
 * 解压出“filece.dll”和“nicdrv.dll”，用[windows硬件安装向导](https://zhidao.baidu.com/question/21947667.html)来安装
+
 > [蓝奏云 网盘下载](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 > [百度云 网盘下载](https://pan.baidu.com/s/1Cf2AsghGEVoW7JC1KarJZw#list/path=/软件/Kingsoft/驱动精灵/提取版网卡&parentPath=/软件)
